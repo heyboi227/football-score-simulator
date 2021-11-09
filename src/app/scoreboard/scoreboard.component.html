@@ -1,7 +1,18 @@
-<div class="scoreboard" [style.display] = "matchHasStarted ? 'flex' : 'none'">
+<div class="scoreboard" [style.display]="matchHasStarted ? 'flex' : 'none'"
+  [ngClass]="{clScoreboard: tournamentName == 'UEFA Champions League', elScoreboard: tournamentName == 'UEFA Europa League', eclScoreboard: tournamentName == 'UEFA Europa Conference League'}">
   <div class="scoreboard__matchMetaRow">
     <div class="tournamentName">
-      {{tournamentName}}
+      <img src="/assets/img/cl_logo.svg" *ngIf="tournamentName == 'UEFA Champions League'" width="100px" />
+      <img src="/assets/img/el_logo.svg" *ngIf="tournamentName == 'UEFA Europa League'" width="100px" />
+      <img src="/assets/img/ecl_logo.svg" *ngIf="tournamentName == 'UEFA Europa Conference League'" width="100px" />
+      <img src="/assets/img/uefa_euro_logo.svg.png" *ngIf="tournamentName == 'UEFA European Championship'"
+        width="70px" />
+      <img src="/assets/img/uefa_euro_qualifying_logo.png"
+        *ngIf="tournamentName == 'UEFA Euro qualifiers' || tournamentName == 'UEFA World Cup qualifiers'"
+        width="70px" />
+      <img src="/assets/img/uefa_logo.png"
+        *ngIf="tournamentName == 'UEFA friendly (clubs)' || tournamentName == 'International friendly (UEFA nations)'"
+        width="70px" />
     </div>
     <div class="matchLocation" *ngIf="matchLocation != undefined">
       {{matchLocation}}
@@ -11,10 +22,10 @@
     <div class="homeTeamZone">
       <div class="nameAndLogoHome">
         <div class="homeTeamName scoreboard__homeTeamName">
-          {{homeTeamName}}
+          {{homeTeamName | uppercase}}
         </div>
         <div class="homeTeamLogo">
-          <img [src]="homeTeamLogoLarge || '../../assets/img/fantasy_team.png' " alt="">
+          <img [src]="homeTeamLogoLarge || '../../assets/img/fantasy_team.png' " alt="" width="70px">
         </div>
       </div>
     </div>
@@ -26,10 +37,10 @@
     <div class="awayTeamZone">
       <div class="nameAndLogoAway">
         <div class="awayTeamLogo">
-          <img [src]="awayTeamLogoLarge || '../../assets/img/fantasy_team.png' " alt="">
+          <img [src]="awayTeamLogoLarge || '../../assets/img/fantasy_team.png' " alt="" width="70px">
         </div>
         <div class="awayTeamName scoreboard__awayTeamName">
-          {{awayTeamName}}
+          {{awayTeamName | uppercase}}
         </div>
       </div>
     </div>
@@ -37,17 +48,20 @@
   <div class="scoreboard__scorersAndAggregateRow">
     <div class="scorersHome">
       <ul class="homeTeamScorers scoreboard__homeTeamScorers">
-        <li *ngFor="let homeTeamGoalObject of homeTeamGoalObjects" class="scorer">{{homeTeamGoalObject.name}} {{homeTeamGoalObject.goalTime}}'</li>
+        <li *ngFor="let homeTeamGoalObject of homeTeamGoalObjects" class="scorer">{{homeTeamGoalObject.name}}
+          {{homeTeamGoalObject.goalTime}}'</li>
         <li class="sentOff" *ngFor="let homeTeamSentOff of homeTeamRedObjects">
-          <img src="../../assets/img/redcard.png" class="redCard" alt=""> {{homeTeamSentOff.name}} {{homeTeamSentOff.redCardTime}}'
+          <img src="../../assets/img/redcard.png" class="redCard" alt=""> {{homeTeamSentOff.name}}
+          {{homeTeamSentOff.redCardTime}}'
         </li>
       </ul>
     </div>
     <div class="matchTimeAndAggregate">
-      <div class="aggregateScore scoreboard__aggregateScore" *ngIf="(homeTeam1stLegGoals != undefined && awayTeam1stLegGoals != undefined && matchStatus != matchStatuses[3] && matchStatus != matchStatuses[4])">
+      <div class="aggregateScore scoreboard__aggregateScore"
+        *ngIf="(homeTeam1stLegGoals != undefined && awayTeam1stLegGoals != undefined && matchStatus != matchStatuses[3] && matchStatus != matchStatuses[4])">
         agg: {{totalHomeTeamGoals}}:{{totalAwayTeamGoals}}
       </div>
-      <div class="currentMatchTime scoreboard__currentMatchTime" >
+      <div class="currentMatchTime scoreboard__currentMatchTime">
         {{matchMinutes}}'
       </div>
       <div class="kickOffButton scoreboard__kickOffButton" *ngIf="matchStatus == matchStatuses[4]">
@@ -56,13 +70,17 @@
       <div class="matchStatus">
         {{matchStatus}}
       </div>
-      <p class="aggregateStatus" *ngIf="matchStatus == matchStatuses[3] && homeTeam1stLegGoals != undefined && awayTeam1stLegGoals != undefined">{{aggregateStatus}}</p>
+      <p class="aggregateStatus"
+        *ngIf="matchStatus == matchStatuses[3] && homeTeam1stLegGoals != undefined && awayTeam1stLegGoals != undefined">
+        {{aggregateStatus}}</p>
     </div>
     <div class="scorersAway">
       <ul class="awayTeamScorers scoreboard__awayTeamScorers">
-        <li *ngFor="let awayTeamGoalObject of awayTeamGoalObjects" class="scorer">{{awayTeamGoalObject.name}} {{awayTeamGoalObject.goalTime}}'</li>
+        <li *ngFor="let awayTeamGoalObject of awayTeamGoalObjects" class="scorer">{{awayTeamGoalObject.name}}
+          {{awayTeamGoalObject.goalTime}}'</li>
         <li class="sentOff" *ngFor="let awayTeamSentOff of awayTeamRedObjects">
-          {{awayTeamSentOff.name}} {{awayTeamSentOff.redCardTime}}' <img src="../../assets/img/redcard.png" class="redCard" alt="">
+          {{awayTeamSentOff.name}} {{awayTeamSentOff.redCardTime}}' <img src="../../assets/img/redcard.png"
+            class="redCard" alt="">
         </li>
       </ul>
     </div>
@@ -71,6 +89,7 @@
 
   </app-stats>
   <div class="playAnother">
-    <button type="button" name="playAnother" *ngIf="matchStatus == matchStatuses[3]" (click)="playAnotherMatch()">Simulate another match</button>
+    <button type="button" name="playAnother" *ngIf="matchStatus == matchStatuses[3]"
+      (click)="playAnotherMatch()">Simulate another match</button>
   </div>
 </div>
