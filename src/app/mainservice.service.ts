@@ -7,14 +7,12 @@ import { map } from 'rxjs/operators';
   providedIn: 'root',
 })
 export class MainserviceService {
-  // base url
-  baseUrl: string = '/uefa-api';
 
   constructor(private http: HttpClient) {}
   getUEFAClubObjects(): Observable<any[]> {
-    const uefa = this.http.get(`${this.baseUrl}/uefa_clubs.json`);
-    const uefa1 = this.http.get(`${this.baseUrl}/uefa_clubs_1.json`);
-    const uefa2 = this.http.get(`${this.baseUrl}/uefa_clubs_2.json`);
+    const uefa = this.http.get("../uefa_clubs.json");
+    const uefa1 = this.http.get("../uefa_clubs_1.json");
+    const uefa2 = this.http.get("../uefa_clubs_2.json");
 
     const objects = forkJoin([uefa, uefa1, uefa2]).pipe(
       map((responses) => {
@@ -25,7 +23,7 @@ export class MainserviceService {
     return objects;
   }
   getUEFANationsObjects(): Observable<any> {
-    return this.http.get(`${this.baseUrl}/uefa_nations.json`);
+    return this.http.get("../uefa_nations.json");
   }
 
   matchHasStarted = new Subject<boolean>();
