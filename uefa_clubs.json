@@ -1,0 +1,1677 @@
+[{
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1736.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1736.png",
+    "club_name": "Real Madrid CF",
+    "id": "1",
+    "league_place": "1",
+    "venues": ["Santiago Bernabeu, Madrid"]
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1708.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1708.png",
+    "club_name": "Barcelona",
+    "id": "3",
+    "league_place": "2",
+    "venues": ["Camp Nou, Barcelona"]
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/915.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/915.png",
+    "club_name": "FC Bayern Munchen",
+    "id": "4",
+    "league_place": "1",
+    "venues": ["Allianz Arena, Munchen"]
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1687.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1687.png",
+    "club_name": "Atletico de Madrid",
+    "id": "5",
+    "league_place": "3"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1139.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1139.png",
+    "club_name": "Juventus",
+    "id": "6",
+    "league_place": "1"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/868.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/868.png",
+    "club_name": "Paris Saint-Germain",
+    "id": "7",
+    "league_place": "2"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/907.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/907.png",
+    "club_name": "Borussia Dortmund",
+    "id": "8"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1759.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1759.png",
+    "club_name": "Sevilla FC",
+    "id": "9"
+}, {
+    "club_country": "POR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1487.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1487.png",
+    "club_name": "SL Benfica",
+    "id": "10"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/630.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/630.png",
+    "club_name": "Chelsea FC",
+    "id": "11",
+    "venues": ["Stamford Bridge, London"]
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/602.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/602.png",
+    "club_name": "Arsenal FC",
+    "id": "12",
+    "league_place": "5",
+    "venues": ["Emirates Arena, London"]
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/679.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/679.png",
+    "club_name": "Manchester City FC",
+    "id": "13",
+    "league_place": "3",
+    "venues": ["Etihad Stadium, Manchester"]
+}, {
+    "club_country": "POR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1478.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1478.png",
+    "club_name": "FC Porto",
+    "id": "14"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/920.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/920.png",
+    "club_name": "FC Schalke 04",
+    "id": "15"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/680.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/680.png",
+    "club_name": "Manchester United FC",
+    "id": "16",
+    "venues": ["Old Trafford, Manchester"]
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/901.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/901.png",
+    "club_name": "Bayer 04 Leverkusen",
+    "id": "17"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1150.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1150.png",
+    "club_name": "SSC Napoli",
+    "id": "18"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1895.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1895.png",
+    "club_name": "FC Shakhtar Donetsk",
+    "club_points_last_season": 54,
+    "club_division_last_season": 1,
+    "id": "19",
+    "venues": ["Metalist Oblast Sports Complex, Kharkiv", "Arena Lviv, Lviv"]
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301108.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301108.png",
+    "club_name": "FC Zenit",
+    "club_points_last_season": 65,
+    "club_division_last_season": 1,
+    "id": "20",
+    "venues": ["Zenit Arena, St.Petersburg"]
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/728.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/728.png",
+    "club_name": "Tottenham Hotspur FC",
+    "id": "21",
+    "league_place": "2"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1775.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1775.png",
+    "club_name": "Valencia CF",
+    "id": "22",
+    "venues": ["Mestalla Stadium, Valencia"]
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1849.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1849.png",
+    "club_name": "FC Basel 1893",
+    "id": "23"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/865.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/865.png",
+    "club_name": "Olympique Lyonnais",
+    "id": "24"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1129.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1129.png",
+    "club_name": "ACF Fiorentina",
+    "id": "25"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1885.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1885.png",
+    "club_name": "FC Dynamo Kyiv",
+    "club_points_last_season": 65,
+    "club_division_last_season": 1,
+    "id": "26",
+    "venues": ["Olimpiyskiy National Sports Complex, Kyiv"]
+}, {
+    "club_country": "NED",
+    "club_logo": "https://sortitoutsi.net/uploads/team/992.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/992.png",
+    "club_name": "AFC Ajax",
+    "id": "27"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1777.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1777.png",
+    "club_name": "Villarreal CF",
+    "id": "28"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/981.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/981.png",
+    "club_name": "Olympiacos FC",
+    "id": "29",
+    "venues": ["Georgios Karaiskakis Stadium, Piraeus"]
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/826.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/826.png",
+    "club_name": "AS Monaco FC",
+    "id": "30"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1664.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1664.png",
+    "club_name": "Athletic Club",
+    "id": "31"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1871.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1871.png",
+    "club_name": "Galatasaray AS",
+    "club_points_last_season": 84,
+    "club_division_last_season": 1,
+    "id": "32"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/256.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/256.png",
+    "club_name": "RSC Anderlecht",
+    "club_points_last_season": 58,
+    "club_division_last_season": 1,
+    "id": "33"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1140.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1140.png",
+    "club_name": "SS Lazio",
+    "id": "34"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/676.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/676.png",
+    "club_name": "Liverpool FC",
+    "id": "35",
+    "league_place": "4"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/961.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/961.png",
+    "club_name": "VfL Wolfsburg",
+    "id": "36"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/908.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/908.png",
+    "club_name": "Borussia M'gladbach",
+    "id": "37",
+    "venues": ["Borussia-Park, M�nchengladbach"]
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1100.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1100.png",
+    "club_name": "AS Roma",
+    "id": "38"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1870.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1870.png",
+    "club_name": "Fenerbahce SK",
+    "club_points_last_season": 82,
+    "club_division_last_season": 1,
+    "id": "40"
+}, {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/476.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/476.png",
+    "club_name": "AC Sparta Praha",
+    "id": "41",
+    "league_place": "3"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1099.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1099.png",
+    "club_name": "AC Milan",
+    "id": "42"
+}, {
+    "club_country": "NED",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1028.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1028.png",
+    "club_name": "PSV Eindhoven",
+    "id": "43"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1866.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1866.png",
+    "club_name": "Besiktas JK",
+    "club_points_last_season": 84,
+    "club_division_last_season": 1,
+    "id": "44"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/258.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/258.png",
+    "club_name": "KRC Genk",
+    "club_points_last_season": 56,
+    "club_division_last_season": 1,
+    "id": "45"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1135.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1135.png",
+    "club_name": "Internazionale Milano",
+    "id": "46"
+}, {
+    "club_country": "SCO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1569.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1569.png",
+    "club_name": "Celtic FC",
+    "club_points_last_season": 69,
+    "club_division_last_season": 1,
+    "id": "49"
+}, {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/477.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/477.png",
+    "club_name": "FC Viktoria Plzen",
+    "id": "50"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/158.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/158.png",
+    "club_name": "FC Salzburg",
+    "club_points_last_season": 52,
+    "club_division_last_season": 1,
+    "id": "51"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1724.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1724.png",
+    "club_name": "RC Celta de Vigo",
+    "id": "52"
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1518.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1518.png",
+    "club_name": "PFC CSKA Moskva",
+    "club_points_last_season": 50,
+    "club_division_last_season": 1,
+
+    "id": "53"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/186.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/186.png",
+    "club_name": "Club Brugge KV",
+    "club_points_last_season": 76,
+    "club_division_last_season": 1,
+    "id": "54"
+}, {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/505.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/505.png",
+    "club_name": "FC Kobenhavn",
+    "id": "55"
+}, {
+    "club_country": "POR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1488.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1488.png",
+    "club_name": "SC Braga",
+    "id": "56"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/673.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/673.png",
+    "club_name": "Leicester City FC",
+    "id": "57"
+}, {
+    "club_country": "POR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1489.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1489.png",
+    "club_name": "Sporting",
+    "id": "58"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/828.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/828.png",
+    "club_name": "AS Saint-�tienne",
+    "id": "59"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/168.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/168.png",
+    "club_name": "KAA Gent",
+    "club_points_last_season": 49,
+    "club_division_last_season": 1,
+    "id": "60"
+}, {
+    "club_country": "ROU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1513.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1513.png",
+    "club_name": "FCSB",
+    "id": "61",
+    "league_place": "2"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/982.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/982.png",
+    "club_name": "PAOK FC",
+    "id": "62"
+}, {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/22003969.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/22003969.png",
+    "club_name": "PFC Ludogorets Razgrad",
+    "id": "63"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1733.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1733.png",
+    "club_name": "Real Betis Balompie",
+    "id": "65"
+}, {
+    "club_country": "NED",
+    "club_logo": "https://sortitoutsi.net/uploads/team/991.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/991.png",
+    "club_name": "AZ Alkmaar",
+    "id": "66"
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/58029064.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/58029064.png",
+    "club_name": "FC Krasnodar",
+    "club_points_last_season": 41,
+    "club_division_last_season": 1,
+
+    "id": "67"
+}, {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130875.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130875.png",
+    "club_name": "FC BATE Borisov",
+    "id": "70",
+    "league_place": "1",
+    "venues": ["Borisov Arena, Borisov", "Dinamo Minsk Stadium, Minsk"]
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/851.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/851.png",
+    "club_name": "Girondins de Bordeaux",
+    "id": "71"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/650.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/650.png",
+    "club_name": "Everton FC",
+    "id": "72"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1847.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1847.png",
+    "club_name": "BSC Young Boys",
+    "id": "73"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/155.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/155.png",
+    "club_name": "SK Rapid Wien",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1,
+
+    "id": "74"
+}, {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1456.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1456.png",
+    "club_name": "Legia Warszawa",
+    "id": "75"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/866.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/866.png",
+    "club_name": "Olympique de Marseille",
+    "id": "76"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/912.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/912.png",
+    "club_name": "Eintracht Frankfurt",
+    "id": "77"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1174.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1174.png",
+    "club_name": "Torino FC",
+    "id": "78"
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1520.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1520.png",
+    "club_name": "Dinamo Moskva",
+    "club_points_last_season": 50,
+    "club_division_last_season": 1,
+
+    "id": "79"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1742.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1742.png",
+    "club_name": "Real Sociedad",
+    "id": "80"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1879.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1879.png",
+    "club_name": "Trabzonspor AS",
+    "club_points_last_season": 71,
+    "club_division_last_season": 1,
+    "id": "81"
+}, {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/451.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/451.png",
+    "club_name": "APOEL FC",
+    "id": "83"
+}, {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/432.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/432.png",
+    "club_name": "GNK Dinamo Zagreb",
+    "id": "84"
+}, {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/475.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/475.png",
+    "club_name": "FC Slovan Liberec",
+    "id": "86"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/918.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/918.png",
+    "club_name": "1. FSV Mainz 05",
+    "id": "87"
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301104.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301104.png",
+    "club_name": "FC Rostov",
+    "club_points_last_season": 43,
+    "club_division_last_season": 1,
+
+    "id": "88"
+}, {
+    "club_country": "ISR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1097.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1097.png",
+    "club_name": "Maccabi Tel-Aviv FC",
+    "id": "89"
+}, {
+    "club_country": "NED",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1013.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1013.png",
+    "club_name": "Feyenoord",
+    "id": "90"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/713.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/713.png",
+    "club_name": "Southampton FC",
+    "id": "92"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/858.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/858.png",
+    "club_name": "LOSC Lille",
+    "id": "93"
+}, {
+    "club_country": "SVN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1629.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1629.png",
+    "club_name": "NK Maribor",
+    "id": "95"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/250.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/250.png",
+    "club_name": "R. Standard de Liege",
+    "club_points_last_season": 50,
+    "club_division_last_season": 1,
+    "id": "96"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/944.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/944.png",
+    "club_name": "SC Freiburg",
+    "id": "97"
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1525.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1525.png",
+    "club_name": "FC Lokomotiv Moskva",
+    "club_points_last_season": 56,
+    "club_division_last_season": 1,
+
+    "id": "98"
+}, {
+    "club_country": "NOR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1353.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1353.png",
+    "club_name": "Molde FK",
+    "id": "101"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/3800256.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/3800256.png",
+    "club_name": "US Sassuolo Calcio",
+    "id": "104"
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1529.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1529.png",
+    "club_name": "FC Spartak Moskva",
+    "club_points_last_season": 57,
+    "club_division_last_season": 1,
+
+    "id": "105"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1854.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1854.png",
+    "club_name": "FC Zurich",
+    "id": "106"
+}, {
+    "club_country": "AZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/127787.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/127787.png",
+    "club_name": "Qarabag FK",
+    "id": "107"
+}, {
+    "club_country": "ROU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/57110823.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/57110823.png",
+    "club_name": "FC Astra Giurgiu",
+    "id": "108"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/735.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/735.png",
+    "club_name": "West Ham United FC",
+    "id": "109"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/152.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/152.png",
+    "club_name": "FK Austria Wien",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1,
+    "id": "112"
+}, {
+    "club_country": "SWE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1816.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1816.png",
+    "club_name": "Malmo FF",
+    "id": "114"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2247.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2247.png",
+    "club_name": "Hertha BSC Berlin",
+    "id": "115"
+}, {
+    "club_country": "ROU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7540205.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7540205.png",
+    "club_name": "CFR 1907 Cluj",
+    "id": "116"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/862.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/862.png",
+    "club_name": "OGC Nice",
+    "id": "118"
+}, {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59041139.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59041139.png",
+    "club_name": "FC Astana",
+    "id": "119"
+}, {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/526.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/526.png",
+    "club_name": "FC Midtjylland",
+    "id": "121"
+}, {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1952.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1952.png",
+    "club_name": "FK Partizan",
+    "id": "122"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130355.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130355.png",
+    "club_name": "Ankaraspor",
+    "id": "123"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/694366.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/694366.png",
+    "club_name": "Asteras Tripolis FC",
+    "id": "125"
+}, {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/441.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/441.png",
+    "club_name": "HNK Rijeka",
+    "id": "126"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/983.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/983.png",
+    "club_name": "Panathinaikos FC",
+    "id": "128"
+}, {
+    "club_country": "POR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1494.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1494.png",
+    "club_name": "Vitoria SC",
+    "id": "129"
+}, {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/502.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/502.png",
+    "club_name": "Esbjerg fB",
+    "id": "131"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/299.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/299.png",
+    "club_name": "SV Zulte Waregem",
+    "club_points_last_season": 46,
+    "club_division_last_season": 1,
+    "id": "132"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1852.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1852.png",
+    "club_name": "FC Sion",
+    "id": "133"
+}, {
+    "club_country": "POR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2383.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2383.png",
+    "club_name": "Rio Ave FC",
+    "id": "134"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1902.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1902.png",
+    "club_name": "FC Zorya Luhansk",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1,
+    "id": "137"
+}, {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/433.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/433.png",
+    "club_name": "HNK Hajduk Split",
+    "id": "141"
+}, {
+    "club_country": "POR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/729500.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/729500.png",
+    "club_name": "FC Arouca",
+    "id": "142"
+}, {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/932443.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/932443.png",
+    "club_name": "FC Nordsjaelland",
+    "id": "145"
+}, {
+    "club_country": "MDA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/478105.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/478105.png",
+    "club_name": "FC Sheriff",
+    "id": "146"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/129692.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/129692.png",
+    "club_name": "Atromitos FC",
+    "id": "147"
+}, {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/303.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/303.png",
+    "club_name": "FC Dinamo Minsk",
+    "id": "148",
+    "venues": ["Borisov Arena, Borisov", "Dinamo Minsk Stadium, Minsk", "Traktor Stadium, Minsk"]
+}, {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1455.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1455.png",
+    "club_name": "KKS Lech Poznan",
+    "id": "149"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1855.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1855.png",
+    "club_name": "Grasshopper Z�rich",
+    "id": "150"
+}, {
+    "club_country": "ISR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1085.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1085.png",
+    "club_name": "Hapoel Beer-Sheva",
+    "id": "151"
+}, {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/452.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/452.png",
+    "club_name": "Apollon Limassol FC",
+    "id": "153"
+}, {
+    "club_country": "FIN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/816.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/816.png",
+    "club_name": "HJK Helsinki",
+    "id": "154"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301293.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301293.png",
+    "club_name": "FC Vorskla Poltava",
+    "club_points_last_season": 41,
+    "club_division_last_season": 1,
+    "id": "155"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130343.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130343.png",
+    "club_name": "Istanbul Basaksehir",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1,
+    "id": "157"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/514173.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/514173.png",
+    "club_name": "FC Thun",
+    "id": "158"
+}, {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/496.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/496.png",
+    "club_name": "Brondby IF",
+    "id": "159"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130344.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130344.png",
+    "club_name": "Konyaspor",
+    "club_points_last_season": 50,
+    "club_division_last_season": 1,
+    "id": "162"
+}, {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/468.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/468.png",
+    "club_name": "FK Jablonec",
+    "id": "163"
+}, {
+    "club_country": "ISR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1093.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1093.png",
+    "club_name": "Maccabi Haifa FC",
+    "id": "164"
+}, {
+    "club_country": "NOR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1376.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1376.png",
+    "club_name": "Rosenborg BK",
+    "id": "165"
+}, {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1957.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1957.png",
+    "club_name": "FK Vojvodina",
+    "id": "166"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/484460.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/484460.png",
+    "club_name": "FC Olexandriya",
+    "club_points_last_season": 29,
+    "club_division_last_season": 1,
+    "id": "167"
+}, {
+    "club_country": "POR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1476.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1476.png",
+    "club_name": "CS Mar�timo",
+    "id": "169"
+}, {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136156.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136156.png",
+    "club_name": "FK Mlad� Boleslav",
+    "id": "173"
+}, {
+    "club_country": "AZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59001469.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59001469.png",
+    "club_name": "Gabala SC",
+    "id": "174"
+}, {
+    "club_country": "SWE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1803.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1803.png",
+    "club_name": "IFK Goteborg",
+    "id": "175"
+}, {
+    "club_country": "SVK",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1622.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1622.png",
+    "club_name": "SK Slovan Bratislava",
+    "id": "176"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/91013388.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/91013388.png",
+    "club_name": "RB Leipzig",
+    "id": "177"
+}, {
+    "club_country": "ITA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1106.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1106.png",
+    "club_name": "Atalanta BC",
+    "id": "178"
+}, {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/474.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/474.png",
+    "club_name": "SK Slavia Praha",
+    "id": "179"
+}, {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1955.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1955.png",
+    "club_name": "FK Crvena zvezda",
+    "id": "180"
+}, {
+    "club_country": "SCO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1570.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1570.png",
+    "club_name": "Rangers FC",
+    "club_points_last_season": 89,
+    "club_division_last_season": 1,
+    "id": "181"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/879226.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/879226.png",
+    "club_name": "TSG 1899 Hoffenheim",
+    "id": "182"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/154.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/154.png",
+    "club_name": "LASK",
+    "club_points_last_season": 42,
+    "club_division_last_season": 1,
+    "id": "183"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/967.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/967.png",
+    "club_name": "AEK Athens",
+    "id": "184"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/884.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/884.png",
+    "club_name": "Stade Rennais FC",
+    "id": "185"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1714.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1714.png",
+    "club_name": "Granada CF",
+    "id": "186"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1710.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1710.png",
+    "club_name": "Getafe CF",
+    "id": "187"
+}, {
+    "club_country": "ESP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1725.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1725.png",
+    "club_name": "RCD Espanyol",
+    "id": "188"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/740.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/740.png",
+    "club_name": "Wolverhampton Wanderers",
+    "id": "189"
+}, {
+    "club_country": "ENG",
+    "club_logo": "https://sortitoutsi.net/uploads/team/622.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/622.png",
+    "club_name": "Burnley FC",
+    "id": "190"
+}, {
+    "club_country": "GER",
+    "club_logo": "https://sortitoutsi.net/uploads/team/916.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/916.png",
+    "club_name": "1. FC Köln",
+    "id": "191"
+}, {
+    "club_country": "HUN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1055.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1055.png",
+    "club_name": "Ferencvárosi TC",
+    "id": "192"
+}, {
+    "club_country": "HUN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1062.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1062.png",
+    "club_name": "Fehérvár FC",
+    "id": "193"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/16034828.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/16034828.png",
+    "club_name": "Wolfsberger AC",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1,
+    "id": "194"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2047.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2047.png",
+    "club_name": "Stade de Reims",
+    "id": "195"
+}, {
+    "club_country": "FRA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/872.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/872.png",
+    "club_name": "Racing Club de Strasbourg Alsace",
+    "id": "196"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/262.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/262.png",
+    "club_name": "Royal Antwerp FC",
+    "club_points_last_season": 60,
+    "club_division_last_season": 1,
+    "id": "197"
+}, {
+    "club_country": "IRL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/592.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/592.png",
+    "club_name": "Dundalk FC",
+    "id": "198"
+}, {
+    "club_country": "SWE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1101813.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1101813.png",
+    "club_name": "Östersunds FK",
+    "id": "199"
+}, {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/138163.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/138163.png",
+    "club_name": "KF Shkëndija",
+    "id": "200"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1850.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1850.png",
+    "club_name": "FC Lugano",
+    "id": "201"
+}, {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/448.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/448.png",
+    "club_name": "AEK Larnaca",
+    "id": "202"
+}, {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/485305.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/485305.png",
+    "club_name": "FK Sūduva",
+    "id": "203"
+}, {
+    "club_country": "WAL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1940.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1940.png",
+    "club_name": "The New Saints FC",
+    "id": "204"
+}, {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/22069955.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/22069955.png",
+    "club_name": "PFC CSKA-Sofia",
+    "id": "205"
+}, {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/650047.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/650047.png",
+    "club_name": "HŠK Zrinjski",
+    "id": "206"
+}, {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1224.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1224.png",
+    "club_name": "F91 Dudelange",
+    "id": "207"
+}, {
+    "club_country": "SVN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1639.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1639.png",
+    "club_name": "NK Olimpija Ljubljana",
+    "id": "208"
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130501.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130501.png",
+    "club_name": "FC Arsenal Tula",
+    "club_points_last_season": 23,
+    "club_division_last_season": 1,
+
+    "id": "209"
+}, {
+    "club_country": "RUS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/58064627.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/58064627.png",
+    "club_name": "FC Ufa",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1,
+    "id": "210"
+}, {
+    "club_country": "SCO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1536.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1536.png",
+    "club_name": "Aberdeen FC",
+    "club_points_last_season": 49,
+    "club_division_last_season": 1,
+    "id": "211"
+}, {
+    "club_country": "SVK",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1623.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1623.png",
+    "club_name": "FC Spartak Trnava",
+    "id": "212"
+}, {
+    "club_country": "NED",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1047.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1047.png",
+    "club_name": "Willem II",
+    "id": "213"
+}, {
+    "club_country": "NED",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1010.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1010.png",
+    "club_name": "FC Utrecht",
+    "id": "214"
+}, {
+    "club_country": "NED",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1046.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1046.png",
+    "club_name": "Vitesse",
+    "id": "215"
+}, {
+    "club_country": "NED",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1037.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1037.png",
+    "club_name": "Heracles Almelo",
+    "id": "216"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/263.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/263.png",
+    "club_name": "R. Charleroi SC",
+    "club_points_last_season": 42,
+    "club_division_last_season": 1,
+    "id": "217"
+}, {
+    "club_country": "BEL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/233.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/233.png",
+    "club_name": "KV Oostende",
+    "club_points_last_season": 53,
+    "club_division_last_season": 1,
+    "id": "219"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/137959.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/137959.png",
+    "club_name": "TSV Hartberg",
+    "club_points_last_season": 29,
+    "club_division_last_season": 1,
+    "id": "220"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/156.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/156.png",
+    "club_name": "SK Sturm Graz",
+    "club_points_last_season": 39,
+    "club_division_last_season": 1,
+
+    "id": "221"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5605072.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5605072.png",
+    "club_name": "FC Admira Wacker Mödling",
+    "club_points_last_season": 14,
+    "club_division_last_season": 1,
+    "id": "222"
+}, {
+    "club_country": "AUT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/137973.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/137973.png",
+    "club_name": "SCR Altach",
+    "club_points_last_season": 21,
+    "club_division_last_season": 1,
+    "id": "223"
+}, {
+    "club_country": "HUN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1059.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1059.png",
+    "club_name": "Budapest Honvéd FC",
+    "id": "225"
+}, {
+    "club_country": "GEO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/892.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/892.png",
+    "club_name": "FC Dinamo Tbilisi",
+    "id": "226"
+}, {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1218.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1218.png",
+    "club_name": "FK Žalgiris Vilnius",
+    "id": "227"
+}, {
+    "club_country": "ARM",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59006806.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59006806.png",
+    "club_name": "Alashkert FC",
+    "id": "228"
+}, {
+    "club_country": "SCO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1584.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1584.png",
+    "club_name": "Motherwell FC",
+    "club_points_last_season": 35,
+    "club_division_last_season": 1,
+
+    "id": "229"
+}, {
+    "club_country": "SCO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1580.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1580.png",
+    "club_name": "Kilmarnock FC",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1,
+
+    "id": "230"
+}, {
+    "club_country": "SCO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1575.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1575.png",
+    "club_name": "Hibernian FC",
+    "club_points_last_season": 56,
+    "club_division_last_season": 1,
+    "id": "231"
+}, {
+    "club_country": "SCO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1596.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1596.png",
+    "club_name": "St Johnstone FC",
+    "club_points_last_season": 40,
+    "club_division_last_season": 1,
+
+    "id": "232"
+}, {
+    "club_country": "SCO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1573.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1573.png",
+    "club_name": "Heart of Midlothian FC",
+    "club_points_last_season": 57,
+    "club_division_last_season": 2,
+    "id": "233"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/484484.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/484484.png",
+    "club_name": "FC Desna Chernihiv",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1,
+    "id": "234"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/71063212.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/71063212.png",
+    "club_name": "Kolos Kovalivka",
+    "club_points_last_season": 41,
+    "club_division_last_season": 1,
+    "id": "235"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130870.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130870.png",
+    "club_name": "FC Mariupol",
+    "club_points_last_season": 26,
+    "club_division_last_season": 1,
+    "id": "236"
+}, {
+    "club_country": "UKR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5321800.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5321800.png",
+    "club_name": "FC Olimpik Donetsk",
+    "club_points_last_season": 22,
+    "club_division_last_season": 1,
+    "id": "237"
+}, {
+    "club_country": "FRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300342.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300342.png",
+    "club_name": "B36 Tórshavn",
+    "id": "238"
+}, {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300153.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300153.png",
+    "club_name": "FK Sarajevo",
+    "id": "239"
+}, {
+    "club_country": "EST",
+    "club_logo": "https://sortitoutsi.net/uploads/team/746.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/746.png",
+    "club_name": "FC Flora Tallinn",
+    "id": "240"
+}, {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47094382.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47094382.png",
+    "club_name": "FK Riteriai",
+    "id": "241"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130382.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130382.png",
+    "club_name": "Sivasspor",
+    "club_points_last_season": 65,
+    "club_division_last_season": 1,
+    "id": "242"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/458718.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/458718.png",
+    "club_name": "Alanyaspor",
+    "club_points_last_season": 60,
+    "club_division_last_season": 1,
+    "id": "243"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130378.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130378.png",
+    "club_name": "Yeni Malatyaspor",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1,
+    "id": "245"
+}, {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/455778.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/455778.png",
+    "club_name": "Akhisar Belediyespor",
+    "id": "246"
+}, {
+    "club_country": "MNE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1102443.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1102443.png",
+    "club_name": "FK Budućnost Podgorica",
+    "id": "247"
+}, {
+    "club_country": "MNE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/484442.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/484442.png",
+    "club_name": "FC Kairat Almaty",
+    "id": "248"
+}, {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/440.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/440.png",
+    "club_name": "NK Osijek",
+    "id": "249"
+}, {
+    "club_country": "ALB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/11009767.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/11009767.png",
+    "club_name": "FK Kukësi",
+    "id": "250"
+}, {
+    "club_country": "ROU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/57111101.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/57111101.png",
+    "club_name": "Universitatea Craiova",
+    "id": "251"
+}, {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1250.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1250.png",
+    "club_name": "Valletta FC",
+    "id": "252"
+}, {
+    "club_country": "SWE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1780.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1780.png",
+    "club_name": "AIK",
+    "id": "253"
+}, {
+    "club_country": "LVA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/483868.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/483868.png",
+    "club_name": "FK Ventspils",
+    "id": "254"
+}, {
+    "club_country": "GIB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/36500004.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/36500004.png",
+    "club_name": "Lincoln Red Imps FC",
+    "id": "255"
+}, {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/926867.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/926867.png",
+    "club_name": "SønderjyskE",
+    "id": "256"
+}, {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/482.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/482.png",
+    "club_name": "AGF Aarhus",
+    "id": "257"
+}, {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/533.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/533.png",
+    "club_name": "Lyngby BK",
+    "id": "258"
+}, {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/460.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/460.png",
+    "club_name": "Omonoia FC",
+    "id": "259"
+}, {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/450.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/450.png",
+    "club_name": "Anorthosis Famagusta FC",
+    "id": "260"
+}, {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/449.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/449.png",
+    "club_name": "AEL Limassol FC",
+    "id": "261"
+}, {
+    "club_country": "LVA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47053664.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47053664.png",
+    "club_name": "Riga FC",
+    "id": "262"
+}, {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1227.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1227.png",
+    "club_name": "FC Progrès Niederkorn",
+    "id": "263"
+}, {
+    "club_country": "LIE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5720002.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5720002.png",
+    "club_name": "FC Vaduz",
+    "id": "264"
+}, {
+    "club_country": "EST",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7681543.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7681543.png",
+    "club_name": "Nõmme Kalju FC",
+    "id": "265"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1851.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1851.png",
+    "club_name": "FC Luzern",
+    "id": "266"
+}, {
+    "club_country": "SVN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/128652.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/128652.png",
+    "club_name": "NK Domžale",
+    "id": "268"
+}, {
+    "club_country": "ROU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/57047936.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/57047936.png",
+    "club_name": "FC Viitorul",
+    "id": "269"
+}, {
+    "club_country": "FRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/806.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/806.png",
+    "club_name": "KÍ Klaksvík",
+    "id": "271"
+}, {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1284.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1284.png",
+    "club_name": "Linfield FC",
+    "id": "272"
+}, {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5340057.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5340057.png",
+    "club_name": "CS Fola Esch",
+    "id": "273"
+}, {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5747642.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5747642.png",
+    "club_name": "Bačka Topola",
+    "id": "274"
+}, {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300125.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300125.png",
+    "club_name": "FC Shakhtyor Soligorsk",
+    "id": "275"
+}, {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301372.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301372.png",
+    "club_name": "FK Čukarički",
+    "id": "276"
+}, {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1954.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1954.png",
+    "club_name": "FK Radnički Niš",
+    "id": "277"
+}, {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/62031842.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/62031842.png",
+    "club_name": "FK Spartak Subotica",
+    "id": "278"
+}, {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301374.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301374.png",
+    "club_name": "FK Mladost Lučani",
+    "id": "279"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1853.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1853.png",
+    "club_name": "FC St. Gallen",
+    "id": "280"
+}, {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1858.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1858.png",
+    "club_name": "Servette FC",
+    "id": "281"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/969.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/969.png",
+    "club_name": "Aris Thessaloniki FC",
+    "id": "284"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/980.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/980.png",
+    "club_name": "OFI Crete FC",
+    "id": "285"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/984.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/984.png",
+    "club_name": "Panionios GSS",
+    "id": "286"
+}, {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/129667.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/129667.png",
+    "club_name": "PAS Giannina FC",
+    "id": "287"
+}, {
+    "club_country": "ARM",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59136074.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59136074.png",
+    "club_name": "Ararat-Armenia FC",
+    "id": "288"
+}, {
+    "club_country": "FIN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/818.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/818.png",
+    "club_name": "KuPS Kuopio",
+    "id": "289"
+}, {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300113.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300113.png",
+    "club_name": "FC Dinamo Brest",
+    "id": "290"
+}, {
+    "club_country": "SVK",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1614.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1614.png",
+    "club_name": "FC DAC 1904 Dunajská Streda",
+    "id": "291"
+}, {
+    "club_country": "AZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/167.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/167.png",
+    "club_name": "Neftçi PFK",
+    "id": "292"
+}, {
+    "club_country": "ISL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1070.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1070.png",
+    "club_name": "FH Hafnarfjördur",
+    "id": "293"
+}, {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/473.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/473.png",
+    "club_name": "SK Sigma Olomouc",
+    "id": "294"
+}, {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/467.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/467.png",
+    "club_name": "FC Zlín",
+    "id": "295"
+}, {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/129859.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/129859.png",
+    "club_name": "NK Lokomotiva Zagreb",
+    "id": "296"
+}, {
+    "club_country": "ISR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1083.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1083.png",
+    "club_name": "Beitar Jerusalem FC",
+    "id": "297"
+}, {
+    "club_country": "ISR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1082.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1082.png",
+    "club_name": "Bnei Yehuda Tel-Aviv FC",
+    "id": "298"
+}, {
+    "club_country": "ISR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1087.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1087.png",
+    "club_name": "Hapoel Haifa FC",
+    "id": "299"
+}, {
+    "club_country": "IRL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/596.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/596.png",
+    "club_name": "Shamrock Rovers FC",
+    "id": "300"
+}]
