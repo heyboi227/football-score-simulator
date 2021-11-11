@@ -131,6 +131,7 @@ export class MatchsettingsComponent implements OnInit {
       }
       this.homeTeamLastDivision = clubs[0].club_division_last_season;
       this.homeTeamLogoLarge = clubs[0].club_logo_large;
+      this.homeTeamLastDivisionGroup = clubs[0].club_division_group_last_season;
       // if both teams in inputs come from DB
       if (this.homeTeamLastPoints && this.awayTeamLastPoints) {
         this.isBothFromDB = true;
@@ -303,6 +304,7 @@ export class MatchsettingsComponent implements OnInit {
       }
       this.awayTeamLastDivision = clubs[0].club_division_last_season;
       this.awayTeamLogoLarge = clubs[0].club_logo_large;
+      this.awayTeamLastDivisionGroup = clubs[0].club_division_group_last_season;
       // if both teams in inputs come from DB
       if (this.homeTeamLastPoints && this.awayTeamLastPoints) {
         this.isBothFromDB = true;
