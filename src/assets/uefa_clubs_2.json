@@ -1624,10 +1624,125 @@
   },
   {
     "club_country": "TUR",
-    "club_logo": "https://sortitoutsi.net/uploads/team/130300.png",
-    "club_logo_large": "https://sortitoutsi.net/uploads/team/130300.png",
-    "club_name": "Balıkesirspor",
-    "club_points_last_season": 35,
+    "club_logo": "https://sortitoutsi.net/uploads/team/130304.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130304.png",
+    "club_name": "Bandırmaspor",
+    "club_points_last_season": 42,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130354.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130354.png",
+    "club_name": "Boluspor",
+    "club_points_last_season": 42,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1867.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1867.png",
+    "club_name": "Bursaspor",
+    "club_points_last_season": 46,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/70054558.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/70054558.png",
+    "club_name": "BB Erzurumspor",
+    "club_points_last_season": 40,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1868.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1868.png",
+    "club_name": "Denizlispor",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130289.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130289.png",
+    "club_name": "Eyüpspor",
+    "club_points_last_season": 92,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "Kırmızı"
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1873.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1873.png",
+    "club_name": "Gençlerbirliği S.K.",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1874.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1874.png",
+    "club_name": "İstanbulspor",
+    "club_points_last_season": 64,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1876.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1876.png",
+    "club_name": "Kocaelispor",
+    "club_points_last_season": 68,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "Beyaz"
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/70042969.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/70042969.png",
+    "club_name": "Manisa FK",
+    "club_points_last_season": 84,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "Beyaz"
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/70028001.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/70028001.png",
+    "club_name": "Menemenspor",
+    "club_points_last_season": 34,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1864.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1864.png",
+    "club_name": "MKE Ankaragücü",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1878.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1878.png",
+    "club_name": "Samsunspor",
+    "club_points_last_season": 70,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/70078171.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/70078171.png",
+    "club_name": "Tuzlaspor",
+    "club_points_last_season": 47,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "TUR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/453567.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/453567.png",
+    "club_name": "Ümraniyespor",
+    "club_points_last_season": 51,
     "club_division_last_season": 2
   }
 ]

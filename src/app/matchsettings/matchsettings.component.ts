@@ -51,6 +51,8 @@ export class MatchsettingsComponent implements OnInit {
   awayTeamLastPoints: number;
   homeTeamLastDivision: number;
   awayTeamLastDivision: number;
+  homeTeamLastDivisionGroup: number;
+  awayTeamLastDivisionGroup: number;
   rankingDifference: number;
   pointsRatio: number;
   isBothFromDB: boolean = false;
@@ -172,7 +174,10 @@ export class MatchsettingsComponent implements OnInit {
           this.awayRelativeStrength = 30;
           this.relativeStrengthText = this.relativeStrengths[6];
         } else if (this.homeTeamLastDivision === this.awayTeamLastDivision) {
-          if (this.pointsRatio > 0.9412 && this.pointsRatio < 1.0625) {
+          if (
+            (this.pointsRatio > 0.9412 && this.pointsRatio < 1.0625) ||
+            this.homeTeamLastDivisionGroup !== this.awayTeamLastDivisionGroup
+          ) {
             this.homeRelativeStrength = 50;
             this.awayRelativeStrength = 50;
             this.relativeStrengthText = this.relativeStrengths[3];
@@ -341,7 +346,10 @@ export class MatchsettingsComponent implements OnInit {
           this.awayRelativeStrength = 30;
           this.relativeStrengthText = this.relativeStrengths[6];
         } else if (this.homeTeamLastDivision === this.awayTeamLastDivision) {
-          if (this.pointsRatio > 0.9412 && this.pointsRatio < 1.0625) {
+          if (
+            (this.pointsRatio > 0.9412 && this.pointsRatio < 1.0625) ||
+            this.homeTeamLastDivisionGroup !== this.awayTeamLastDivisionGroup
+          ) {
             this.homeRelativeStrength = 50;
             this.awayRelativeStrength = 50;
             this.relativeStrengthText = this.relativeStrengths[3];
