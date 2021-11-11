@@ -1,6 +1,10 @@
 <div class="matchSettings" [style.display]="matchHasStarted ? 'none' : 'block'">
   <div class="matchSettings matchSettings__main">
     <div class="chooseTournament matchSettings__chooseTournament">
+      <label for="chooseCountry">Country</label>
+      <select name="countryName" id="chooseCountry" class="" [disabled]="" [(ngModel)]="countryName">
+        <option *ngFor="let countryName of countryNames" [value]="countryName">{{countryName}}</option>
+      </select>
       <label for="chooseTournament">Tournament</label>
       <select id="chooseTournament" class="" name="tournamentName" [disabled]="" [(ngModel)]="tournamentName"
         (change)="onChangeTournament($event)">

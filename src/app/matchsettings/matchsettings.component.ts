@@ -1,3 +1,4 @@
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { MainserviceService } from '../mainservice.service';
 
@@ -7,7 +8,10 @@ import { MainserviceService } from '../mainservice.service';
   styleUrls: ['./matchsettings.component.css'],
 })
 export class MatchsettingsComponent implements OnInit {
-  constructor(private _mainService: MainserviceService) {
+  constructor(
+    private _mainService: MainserviceService,
+    private http: HttpClient
+  ) {
     this._mainService.matchHasStarted$.subscribe((data) => {
       this.matchHasStarted = data;
     });
@@ -39,6 +43,8 @@ export class MatchsettingsComponent implements OnInit {
     'International friendly (UEFA nations)',
     'UEFA World Cup qualifiers',
   ];
+  countryName: string;
+  countryNames: string[] = [];
 
   possibleTeamObjects: any = [];
   possibleTeamNames: string[] = [];
@@ -58,6 +64,27 @@ export class MatchsettingsComponent implements OnInit {
   isBothFromDB: boolean = false;
   homeTeamLogoLarge: string;
   awayTeamLogoLarge: string;
+
+  fetchCountries() {
+    fetch('https://api-football-v1.p.rapidapi.com/v3/countries', {
+      method: 'GET',
+      headers: {
+        'x-rapidapi-host': 'api-football-v1.p.rapidapi.com',
+        'x-rapidapi-key': '6d9da25073msheeafa7b7195d868p1e35e8jsnda1f1df455a5',
+      },
+    })
+      .then((response) => {
+        response.json().then((data) => {
+          var countries = data.response;
+          countries.forEach((country) => {
+            this.countryNames.push(country.name);
+          });
+        });
+      })
+      .catch((err) => {
+        console.error(err);
+      });
+  }
 
   onChangeTournament(event) {
     this.tournamentName = event.target.value;
@@ -715,6 +742,7 @@ export class MatchsettingsComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.fetchCountries();
     document
       .querySelectorAll('.firstLegGoalsSetter')[0]
       .setAttribute('style', 'visibility: hidden;');
