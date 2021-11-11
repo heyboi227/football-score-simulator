@@ -70,7 +70,7 @@ export class MatchsettingsComponent implements OnInit {
       method: 'GET',
       headers: {
         'x-rapidapi-host': 'api-football-v1.p.rapidapi.com',
-        'x-rapidapi-key': '6d9da25073msheeafa7b7195d868p1e35e8jsnda1f1df455a5',
+        'x-rapidapi-key': 'Your API key goes here...',
       },
     })
       .then((response) => {
