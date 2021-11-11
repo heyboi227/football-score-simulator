@@ -35,10 +35,6 @@ input#awayTeam1stLegGoals {
   align-items: center;
 }
 
-.matchSettings {
-  /*padding: 2rem;*/
-}
-
 .matchSettings__chooseTeams {
   display: flex;
   justify-content: space-around;
@@ -109,7 +105,6 @@ input#awayTeam1stLegGoals {
 
 
 @media all and (max-width: 640px) {
-  input {}
 
   .matchSettings__other,
   .matchSettings__main {
