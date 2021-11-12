@@ -171,32 +171,24 @@ export class MatchsettingsComponent implements OnInit {
           this.relativeStrengthText = this.relativeStrengths[6];
         }
         this.pointsRatio = this.homeTeamLastPoints / this.awayTeamLastPoints;
-        if (
-          (this.homeTeamLastDivision == 2 && this.awayTeamLastDivision == 1) ||
-          (this.homeTeamLastDivision == 3 && this.awayTeamLastDivision == 2) ||
-          (this.homeTeamLastDivision == 4 && this.awayTeamLastDivision == 3)
-        ) {
+        if (this.homeTeamLastDivision - this.awayTeamLastDivision == 1) {
           this.homeRelativeStrength = 40;
           this.awayRelativeStrength = 60;
           this.relativeStrengthText = this.relativeStrengths[1];
-        } else if (
-          (this.homeTeamLastDivision >= 3 && this.awayTeamLastDivision == 1) ||
-          (this.homeTeamLastDivision >= 4 && this.awayTeamLastDivision == 2)
-        ) {
+        } else if (this.homeTeamLastDivision - this.awayTeamLastDivision >= 2) {
           this.homeRelativeStrength = 30;
           this.awayRelativeStrength = 70;
           this.relativeStrengthText = this.relativeStrengths[0];
         } else if (
-          (this.homeTeamLastDivision == 1 && this.awayTeamLastDivision == 2) ||
-          (this.homeTeamLastDivision == 2 && this.awayTeamLastDivision == 3) ||
-          (this.homeTeamLastDivision == 3 && this.awayTeamLastDivision == 4)
+          this.homeTeamLastDivision - this.awayTeamLastDivision ==
+          -1
         ) {
           this.homeRelativeStrength = 60;
           this.awayRelativeStrength = 40;
           this.relativeStrengthText = this.relativeStrengths[5];
         } else if (
-          (this.homeTeamLastDivision == 1 && this.awayTeamLastDivision >= 3) ||
-          (this.homeTeamLastDivision == 2 && this.awayTeamLastDivision >= 4)
+          this.homeTeamLastDivision - this.awayTeamLastDivision <=
+          -2
         ) {
           this.homeRelativeStrength = 70;
           this.awayRelativeStrength = 30;
@@ -344,32 +336,24 @@ export class MatchsettingsComponent implements OnInit {
           this.relativeStrengthText = this.relativeStrengths[6];
         }
         this.pointsRatio = this.homeTeamLastPoints / this.awayTeamLastPoints;
-        if (
-          (this.homeTeamLastDivision == 2 && this.awayTeamLastDivision == 1) ||
-          (this.homeTeamLastDivision == 3 && this.awayTeamLastDivision == 2) ||
-          (this.homeTeamLastDivision == 4 && this.awayTeamLastDivision == 3)
-        ) {
+        if (this.homeTeamLastDivision - this.awayTeamLastDivision == 1) {
           this.homeRelativeStrength = 40;
           this.awayRelativeStrength = 60;
           this.relativeStrengthText = this.relativeStrengths[1];
-        } else if (
-          (this.homeTeamLastDivision >= 3 && this.awayTeamLastDivision == 1) ||
-          (this.homeTeamLastDivision >= 4 && this.awayTeamLastDivision == 2)
-        ) {
+        } else if (this.homeTeamLastDivision - this.awayTeamLastDivision >= 2) {
           this.homeRelativeStrength = 30;
           this.awayRelativeStrength = 70;
           this.relativeStrengthText = this.relativeStrengths[0];
         } else if (
-          (this.homeTeamLastDivision == 1 && this.awayTeamLastDivision == 2) ||
-          (this.homeTeamLastDivision == 2 && this.awayTeamLastDivision == 3) ||
-          (this.homeTeamLastDivision == 3 && this.awayTeamLastDivision == 4)
+          this.homeTeamLastDivision - this.awayTeamLastDivision ==
+          -1
         ) {
           this.homeRelativeStrength = 60;
           this.awayRelativeStrength = 40;
           this.relativeStrengthText = this.relativeStrengths[5];
         } else if (
-          (this.homeTeamLastDivision == 1 && this.awayTeamLastDivision >= 3) ||
-          (this.homeTeamLastDivision == 2 && this.awayTeamLastDivision >= 4)
+          this.homeTeamLastDivision - this.awayTeamLastDivision <=
+          -2
         ) {
           this.homeRelativeStrength = 70;
           this.awayRelativeStrength = 30;
