@@ -43,8 +43,8 @@ export class MatchsettingsComponent implements OnInit {
     'International friendly (UEFA nations)',
     'UEFA World Cup qualifiers',
   ];
-  countryName: string;
-  countryNames: string[] = [];
+  // countryName: string;
+  // countryNames: string[] = [];
 
   possibleTeamObjects: any = [];
   possibleTeamNames: string[] = [];
@@ -65,26 +65,26 @@ export class MatchsettingsComponent implements OnInit {
   homeTeamLogoLarge: string;
   awayTeamLogoLarge: string;
 
-  fetchCountries() {
-    fetch('https://api-football-v1.p.rapidapi.com/v3/countries', {
-      method: 'GET',
-      headers: {
-        'x-rapidapi-host': 'api-football-v1.p.rapidapi.com',
-        'x-rapidapi-key': '6d9da25073msheeafa7b7195d868p1e35e8jsnda1f1df455a5',
-      },
-    })
-      .then((response) => {
-        response.json().then((data) => {
-          var countries = data.response;
-          countries.forEach((country) => {
-            this.countryNames.push(country.name);
-          });
-        });
-      })
-      .catch((err) => {
-        console.error(err);
-      });
-  }
+  // fetchCountries() {
+  //   fetch('https://api-football-v1.p.rapidapi.com/v3/countries', {
+  //     method: 'GET',
+  //     headers: {
+  //       'x-rapidapi-host': 'api-football-v1.p.rapidapi.com',
+  //       'x-rapidapi-key': 'YOUR API KEY',
+  //     },
+  //   })
+  //     .then((response) => {
+  //       response.json().then((data) => {
+  //         var countries = data.response;
+  //         countries.forEach((country) => {
+  //           this.countryNames.push(country.name);
+  //         });
+  //       });
+  //     })
+  //     .catch((err) => {
+  //       console.error(err);
+  //     });
+  // }
 
   onChangeTournament(event) {
     this.tournamentName = event.target.value;
@@ -742,7 +742,7 @@ export class MatchsettingsComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.fetchCountries();
+    // this.fetchCountries();
     document
       .querySelectorAll('.firstLegGoalsSetter')[0]
       .setAttribute('style', 'visibility: hidden;');
