@@ -1,4 +1,3 @@
-import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { MainserviceService } from '../mainservice.service';
 
@@ -9,9 +8,7 @@ import { MainserviceService } from '../mainservice.service';
 })
 export class MatchsettingsComponent implements OnInit {
   constructor(
-    private _mainService: MainserviceService,
-    private http: HttpClient
-  ) {
+    private _mainService: MainserviceService  ) {
     this._mainService.matchHasStarted$.subscribe((data) => {
       this.matchHasStarted = data;
     });
