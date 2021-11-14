@@ -366,7 +366,9 @@
     "club_country": "DEN",
     "club_logo": "https://sortitoutsi.net/uploads/team/505.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/505.png",
-    "club_name": "FC Kobenhavn"
+    "club_name": "FC Kobenhavn",
+    "club_points_last_season": 35,
+    "club_division_last_season": 1
   },
   {
     "club_country": "POR",
@@ -690,7 +692,9 @@
     "club_country": "DEN",
     "club_logo": "https://sortitoutsi.net/uploads/team/526.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/526.png",
-    "club_name": "FC Midtjylland"
+    "club_name": "FC Midtjylland",
+    "club_points_last_season": 43,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SRB",
@@ -778,7 +782,9 @@
     "club_country": "DEN",
     "club_logo": "https://sortitoutsi.net/uploads/team/932443.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/932443.png",
-    "club_name": "FC Nordsjaelland"
+    "club_name": "FC Nordsjaelland",
+    "club_points_last_season": 29,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MDA",
@@ -859,7 +865,9 @@
     "club_country": "DEN",
     "club_logo": "https://sortitoutsi.net/uploads/team/496.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/496.png",
-    "club_name": "Brondby IF"
+    "club_name": "Brondby IF",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1
   },
   {
     "club_country": "TUR",
@@ -1447,7 +1455,9 @@
     "club_country": "DEN",
     "club_logo": "https://sortitoutsi.net/uploads/team/482.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/482.png",
-    "club_name": "AGF Aarhus"
+    "club_name": "AGF Aarhus",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1
   },
   {
     "club_country": "DEN",

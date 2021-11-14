@@ -1744,5 +1744,53 @@
     "club_name": "Ümraniyespor",
     "club_points_last_season": 51,
     "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/483.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/483.png",
+    "club_name": "AaB Fodbold",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/545.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/545.png",
+    "club_name": "Odense Boldklub",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/551.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/551.png",
+    "club_name": "Silkeborg IF",
+    "club_points_last_season": 73,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/926867.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/926867.png",
+    "club_name": "SønderjyskE Fodbold",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2142.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2142.png",
+    "club_name": "Vejle Boldklub",
+    "club_points_last_season": 24,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2142.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2142.png",
+    "club_name": "Viborg FF",
+    "club_points_last_season": 76,
+    "club_division_last_season": 2
   }
 ]
