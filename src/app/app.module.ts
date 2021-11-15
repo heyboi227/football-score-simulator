@@ -9,6 +9,7 @@ import { MainserviceService } from './mainservice.service';
 import { StatsComponent } from './stats/stats.component';
 import { ScoreboardComponent } from './scoreboard/scoreboard.component';
 import { MatchsettingsComponent } from './matchsettings/matchsettings.component';
+import { CommonModule } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { MatchsettingsComponent } from './matchsettings/matchsettings.component'
     FormsModule,
     HttpClientModule,
     NguiAutoCompleteModule,
+    CommonModule,
   ],
   providers: [
     MainserviceService,
