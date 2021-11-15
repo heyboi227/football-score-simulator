@@ -4,12 +4,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 
 import { AppComponent, CacheInterceptor } from './app.component';
-import { NguiAutoCompleteModule } from '@ngui/auto-complete';
 import { MainserviceService } from './mainservice.service';
 import { StatsComponent } from './stats/stats.component';
 import { ScoreboardComponent } from './scoreboard/scoreboard.component';
 import { MatchsettingsComponent } from './matchsettings/matchsettings.component';
 import { CommonModule } from '@angular/common';
+import { NguiAutoCompleteModule } from '@ngui/auto-complete';
 
 @NgModule({
   declarations: [
@@ -22,8 +22,8 @@ import { CommonModule } from '@angular/common';
     BrowserModule,
     FormsModule,
     HttpClientModule,
-    NguiAutoCompleteModule,
     CommonModule,
+    NguiAutoCompleteModule,
   ],
   providers: [
     MainserviceService,

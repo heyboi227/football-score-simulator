@@ -13,7 +13,7 @@
     </div>
     <div class="chooseTeams matchSettings__chooseTeams">
       <div class="chooseHomeTeam">
-        <input type="text" name="chooseHomeTeam" auto-complete [max-num-list]="5" [min-chars]="2"
+        <input auto-complete type="text" name="chooseHomeTeam" [max-num-list]="5" [min-chars]="2"
           [source]="possibleTeamNames" [value]="" placeholder="Choose home team" (change)="onChangeHomeTeamName($event)"
           [(ngModel)]="homeTeamName">
       </div>
