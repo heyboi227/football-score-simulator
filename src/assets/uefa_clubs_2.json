@@ -1784,5 +1784,95 @@
     "club_name": "Viborg FF",
     "club_points_last_season": 76,
     "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/504.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/504.png",
+    "club_name": "FC Fredericia",
+    "club_points_last_season": 32,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/516.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/516.png",
+    "club_name": "FC Helsingør",
+    "club_points_last_season": 36,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/508.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/508.png",
+    "club_name": "Fremad Amager",
+    "club_points_last_season": 28,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/27035536.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/27035536.png",
+    "club_name": "HB Køge",
+    "club_points_last_season": 30,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/27035536.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/27035536.png",
+    "club_name": "HB Køge",
+    "club_points_last_season": 30,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/930210.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/930210.png",
+    "club_name": "Hobro IK",
+    "club_points_last_season": 24,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/481.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/481.png",
+    "club_name": "AC Horsens",
+    "club_points_last_season": 24,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/524.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/524.png",
+    "club_name": "Hvidovre IF",
+    "club_points_last_season": 23,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2116.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2116.png",
+    "club_name": "Jammerbugt FC",
+    "club_points_last_season": 60,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "1"
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2116.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2116.png",
+    "club_name": "Nykøbing FC",
+    "club_points_last_season": 62,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "2"
+  },
+  {
+    "club_country": "DEN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2116.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2116.png",
+    "club_name": "Vendsyssel FF",
+    "club_points_last_season": 16,
+    "club_division_last_season": 2
   }
 ]

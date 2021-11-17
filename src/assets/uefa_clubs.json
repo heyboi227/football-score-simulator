@@ -736,7 +736,9 @@
     "club_country": "DEN",
     "club_logo": "https://sortitoutsi.net/uploads/team/502.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/502.png",
-    "club_name": "Esbjerg fB"
+    "club_name": "Esbjerg fB",
+    "club_points_last_season": 48,
+    "club_division_last_season": 2
   },
   {
     "club_country": "BEL",
@@ -1465,7 +1467,9 @@
     "club_country": "DEN",
     "club_logo": "https://sortitoutsi.net/uploads/team/533.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/533.png",
-    "club_name": "Lyngby BK"
+    "club_name": "Lyngby BK",
+    "club_points_last_season": 26,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CYP",
