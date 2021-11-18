@@ -1866,5 +1866,61 @@
     "club_name": "Vendsyssel FF",
     "club_points_last_season": 16,
     "club_division_last_season": 2
+  },
+  {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/453.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/453.png",
+    "club_name": "Aris Limassol FC",
+    "club_points_last_season": 70,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/138180.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/138180.png",
+    "club_name": "Doxa Katokopias FC",
+    "club_points_last_season": 30,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/456.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/456.png",
+    "club_name": "Ethnikos Achna FC",
+    "club_points_last_season": 22,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/456.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/456.png",
+    "club_name": "Ethnikos Achna FC",
+    "club_points_last_season": 22,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/458.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/458.png",
+    "club_name": "Olympiakos Nicosia",
+    "club_points_last_season": 34,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/149279.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/149279.png",
+    "club_name": "PAEEK",
+    "club_points_last_season": 70,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CYP",
+    "club_logo": "https://sortitoutsi.net/uploads/team/26031118.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/26031118.png",
+    "club_name": "Pafos FC",
+    "club_points_last_season": 32,
+    "club_division_last_season": 1
   }
 ]

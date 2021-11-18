@@ -526,7 +526,9 @@
     "club_country": "CYP",
     "club_logo": "https://sortitoutsi.net/uploads/team/451.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/451.png",
-    "club_name": "APOEL FC"
+    "club_name": "APOEL FC",
+    "club_points_last_season": 30,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CRO",
@@ -833,7 +835,9 @@
     "club_country": "CYP",
     "club_logo": "https://sortitoutsi.net/uploads/team/452.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/452.png",
-    "club_name": "Apollon Limassol FC"
+    "club_name": "Apollon Limassol FC",
+    "club_points_last_season": 54,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FIN",
@@ -1103,7 +1107,9 @@
     "club_country": "CYP",
     "club_logo": "https://sortitoutsi.net/uploads/team/448.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/448.png",
-    "club_name": "AEK Larnaca"
+    "club_name": "AEK Larnaca",
+    "club_points_last_season": 41,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LTU",
@@ -1475,19 +1481,25 @@
     "club_country": "CYP",
     "club_logo": "https://sortitoutsi.net/uploads/team/460.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/460.png",
-    "club_name": "Omonoia FC"
+    "club_name": "Omonoia FC",
+    "club_points_last_season": 56,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CYP",
     "club_logo": "https://sortitoutsi.net/uploads/team/450.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/450.png",
-    "club_name": "Anorthosis Famagusta FC"
+    "club_name": "Anorthosis Famagusta FC",
+    "club_points_last_season": 51,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CYP",
     "club_logo": "https://sortitoutsi.net/uploads/team/449.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/449.png",
-    "club_name": "AEL Limassol FC"
+    "club_name": "AEL Limassol FC",
+    "club_points_last_season": 55,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LVA",
