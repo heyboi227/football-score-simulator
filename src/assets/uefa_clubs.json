@@ -702,7 +702,9 @@
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/1952.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1952.png",
-    "club_name": "FK Partizan"
+    "club_name": "FK Partizan",
+    "club_points_last_season": 95,
+    "club_division_last_season": 1
   },
   {
     "club_country": "TUR",
@@ -905,7 +907,9 @@
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/1957.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1957.png",
-    "club_name": "FK Vojvodina"
+    "club_name": "FK Vojvodina",
+    "club_points_last_season": 71,
+    "club_division_last_season": 1
   },
   {
     "club_country": "UKR",
@@ -967,7 +971,9 @@
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/1955.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1955.png",
-    "club_name": "FK Crvena zvezda"
+    "club_name": "FK Crvena zvezda",
+    "club_points_last_season": 108,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SCO",
@@ -1565,7 +1571,9 @@
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/5747642.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/5747642.png",
-    "club_name": "Bačka Topola"
+    "club_name": "TSC Bačka Topola",
+    "club_points_last_season": 58,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BLR",
@@ -1577,25 +1585,33 @@
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/1301372.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1301372.png",
-    "club_name": "FK Čukarički"
+    "club_name": "FK Čukarički",
+    "club_points_last_season": 74,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/1954.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1954.png",
-    "club_name": "FK Radnički Niš"
+    "club_name": "FK Radnički Niš",
+    "club_points_last_season": 49,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/62031842.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/62031842.png",
-    "club_name": "FK Spartak Subotica"
+    "club_name": "FK Spartak Subotica",
+    "club_points_last_season": 52,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/1301374.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1301374.png",
-    "club_name": "FK Mladost Lučani"
+    "club_name": "FK Mladost Lučani",
+    "club_points_last_season": 54,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SUI",

@@ -2040,5 +2040,69 @@
     "club_name": "Podosfairikos Omilos Xylotymbou",
     "club_points_last_season": 41,
     "club_division_last_season": 2
+  },
+  {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136460.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136460.png",
+    "club_name": "FK Kolubara",
+    "club_points_last_season": 69,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5742993.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5742993.png",
+    "club_name": "FK Metalac Gornji Milanovac",
+    "club_points_last_season": 52,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1950.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1950.png",
+    "club_name": "FK Napredak Kruševac",
+    "club_points_last_season": 50,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/6400020.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/6400020.png",
+    "club_name": "FK Novi Pazar",
+    "club_points_last_season": 49,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/62011758.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/62011758.png",
+    "club_name": "FK Proleter Novi Sad",
+    "club_points_last_season": 53,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/120779.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/120779.png",
+    "club_name": "FK Radnički 1923",
+    "club_points_last_season": 69,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5748006.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5748006.png",
+    "club_name": "FK Radnik Surdulica",
+    "club_points_last_season": 55,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "SRB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5744631.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5744631.png",
+    "club_name": "FK Voždovac",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
   }
 ]
