@@ -1709,7 +1709,9 @@
     "club_country": "CZE",
     "club_logo": "https://sortitoutsi.net/uploads/team/467.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/467.png",
-    "club_name": "FC Zlín"
+    "club_name": "FC Zlín",
+    "club_points_last_season": 32,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CRO",
@@ -5570,14 +5572,6 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300309.png",
     "club_name": "FK Teplice",
     "club_points_last_season": 30,
-    "club_division_last_season": 1
-  },
-  {
-    "club_country": "CZE",
-    "club_logo": "https://sortitoutsi.net/uploads/team/467.png",
-    "club_logo_large": "https://sortitoutsi.net/uploads/team/467.png",
-    "club_name": "FC Fastav Zlín",
-    "club_points_last_season": 32,
     "club_division_last_season": 1
   }
 ]
