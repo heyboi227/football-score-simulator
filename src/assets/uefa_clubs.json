@@ -5534,6 +5534,14 @@
   },
   {
     "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300307.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300307.png",
+    "club_name": "MFK Karviná",
+    "club_points_last_season": 39,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "CZE",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300301.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300301.png",
     "club_name": "FC Baník Ostrava",
