@@ -5573,5 +5573,135 @@
     "club_name": "FK Teplice",
     "club_points_last_season": 30,
     "club_division_last_season": 1
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/465.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/465.png",
+    "club_name": "FC Zbrojovka Brno",
+    "club_points_last_season": 26,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136197.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136197.png",
+    "club_name": "MFK Chrudim",
+    "club_points_last_season": 31,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5640780.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5640780.png",
+    "club_name": "FK Dukla Prague",
+    "club_points_last_season": 34,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136153.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136153.png",
+    "club_name": "FC Vysočina Jihlava",
+    "club_points_last_season": 35,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5652987.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5652987.png",
+    "club_name": "SK Líšeň",
+    "club_points_last_season": 50,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130859.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130859.png",
+    "club_name": "SFC Opava",
+    "club_points_last_season": 17,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/116156.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/116156.png",
+    "club_name": "1. FK Příbram",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136158.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136158.png",
+    "club_name": "1. SK Prostějov",
+    "club_points_last_season": 43,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/476.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/476.png",
+    "club_name": "AC Sparta Prague B",
+    "club_points_last_season": 21,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "CFL"
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136237.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136237.png",
+    "club_name": "FC MAS Táborsko",
+    "club_points_last_season": 31,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136157.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136157.png",
+    "club_name": "FK Fotbal Třinec",
+    "club_points_last_season": 33,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136249.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136249.png",
+    "club_name": "FK Ústí nad Labem",
+    "club_points_last_season": 41,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/136208.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/136208.png",
+    "club_name": "FK Varnsdorf",
+    "club_points_last_season": 30,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5645563.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5645563.png",
+    "club_name": "MFK Vyškov",
+    "club_points_last_season": 21,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "MSFL"
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/25001307.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/25001307.png",
+    "club_name": "FC Sellier & Bellot Vlašim",
+    "club_points_last_season": 37,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5645563.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5645563.png",
+    "club_name": "FK Viktoria Žižkov",
+    "club_points_last_season": 42,
+    "club_division_last_season": 2
   }
 ]
