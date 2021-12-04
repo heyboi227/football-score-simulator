@@ -16,16 +16,16 @@ export class MatchsettingsComponent implements OnInit {
     this.relativeStrengthText = this.relativeStrengths[3];
     this.homeRelativeStrength = 50;
     this.awayRelativeStrength = 50;
-    this.homeCrowdSupportText = this.homeCrowdSupports[2];
-    this.homeCrowdSupport = 3;
-    this.homeTeamMorale = 2;
-    this.awayTeamMorale = 2;
-    this.homeTeamMoraleText = this.motivations[2];
-    this.awayTeamMoraleText = this.motivations[2];
-    this.homeTeamTactics = 1;
-    this.awayTeamTactics = 1;
-    this.homeTeamTacticsText = this.tactics[2];
-    this.awayTeamTacticsText = this.tactics[2];
+    this.homeCrowdSupportText = this.homeCrowdSupports[6];
+    this.homeCrowdSupport = Math.round(Math.random() * 8);
+    this.homeTeamMorale = Math.round(Math.random() * 4);
+    this.awayTeamMorale = Math.round(Math.random() * 4);
+    this.homeTeamMoraleText = this.motivations[5];
+    this.awayTeamMoraleText = this.motivations[5];
+    this.homeTeamTactics = Math.random() * (1.4 - 0.6) + 0.6;
+    this.awayTeamTactics = Math.random() * (1.4 - 0.6) + 0.6;
+    this.homeTeamTacticsText = this.tactics[5];
+    this.awayTeamTacticsText = this.tactics[5];
   }
 
   // tournament names
