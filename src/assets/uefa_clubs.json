@@ -5753,5 +5753,134 @@
     "club_name": "HNK Šibenik",
     "club_points_last_season": 35,
     "club_division_last_season": 1
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/24021028.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/24021028.png",
+    "club_name": "NK BSK Bijelo Brdo",
+    "club_points_last_season": 55,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/430.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/430.png",
+    "club_name": "HNK Cibalia",
+    "club_points_last_season": 51,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/661680.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/661680.png",
+    "club_name": "NK Croatia Zmijavci",
+    "club_points_last_season": 44,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/432.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/432.png",
+    "club_name": "GNK Dinamo Zagreb Academy",
+    "club_points_last_season": 43,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/650441.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/650441.png",
+    "club_name": "NK Dubrava",
+    "club_points_last_season": 46,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/661027.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/661027.png",
+    "club_name": "NK Dugopolje",
+    "club_points_last_season": 48,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/659403.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/659403.png",
+    "club_name": "NK Inter Zaprešić",
+    "club_points_last_season": 45,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/24059190.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/24059190.png",
+    "club_name": "NK Jarun Zagreb",
+    "club_points_last_season": 76,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "Center"
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/24005249.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/24005249.png",
+    "club_name": "NK Kustošija",
+    "club_points_last_season": 51,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/129847.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/129847.png",
+    "club_name": "NK Opatija",
+    "club_points_last_season": 50,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300245.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300245.png",
+    "club_name": "HNK Orijent 1919",
+    "club_points_last_season": 45,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/440.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/440.png",
+    "club_name": "NK Osijek II",
+    "club_points_last_season": 42,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/658353.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/658353.png",
+    "club_name": "NK Rudeš",
+    "club_points_last_season": 57,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/24014012.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/24014012.png",
+    "club_name": "NK Sesvete",
+    "club_points_last_season": 51,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/126423.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/126423.png",
+    "club_name": "NK Solin",
+    "club_points_last_season": 38,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "CRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/447.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/447.png",
+    "club_name": "NK Varaždin",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
   }
 ]
