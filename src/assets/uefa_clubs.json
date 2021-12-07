@@ -205,6 +205,8 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/981.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/981.png",
     "club_name": "Olympiacos FC",
+    "club_points_last_season": 67,
+    "club_division_last_season": 1,
     "venues": [
       "Georgios Karaiskakis Stadium, Piraeus"
     ]
@@ -416,7 +418,9 @@
     "club_country": "GRE",
     "club_logo": "https://sortitoutsi.net/uploads/team/982.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/982.png",
-    "club_name": "PAOK FC"
+    "club_name": "PAOK FC",
+    "club_points_last_season": 47,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BUL",
@@ -724,7 +728,9 @@
     "club_country": "GRE",
     "club_logo": "https://sortitoutsi.net/uploads/team/694366.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/694366.png",
-    "club_name": "Asteras Tripolis FC"
+    "club_name": "Asteras Tripolis FC",
+    "club_points_last_season": 42,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CRO",
@@ -738,7 +744,9 @@
     "club_country": "GRE",
     "club_logo": "https://sortitoutsi.net/uploads/team/983.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/983.png",
-    "club_name": "Panathinaikos FC"
+    "club_name": "Panathinaikos FC",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1
   },
   {
     "club_country": "POR",
@@ -814,7 +822,9 @@
     "club_country": "GRE",
     "club_logo": "https://sortitoutsi.net/uploads/team/129692.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/129692.png",
-    "club_name": "Atromitos FC"
+    "club_name": "Atromitos FC",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BLR",
@@ -1019,7 +1029,9 @@
     "club_country": "GRE",
     "club_logo": "https://sortitoutsi.net/uploads/team/967.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/967.png",
-    "club_name": "AEK Athens"
+    "club_name": "AEK Athens",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FRA",
@@ -1649,13 +1661,17 @@
     "club_country": "GRE",
     "club_logo": "https://sortitoutsi.net/uploads/team/969.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/969.png",
-    "club_name": "Aris Thessaloniki FC"
+    "club_name": "Aris Thessaloniki FC",
+    "club_points_last_season": 51,
+    "club_division_last_season": 1
   },
   {
     "club_country": "GRE",
     "club_logo": "https://sortitoutsi.net/uploads/team/980.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/980.png",
-    "club_name": "OFI Crete FC"
+    "club_name": "OFI Crete FC",
+    "club_points_last_season": 19,
+    "club_division_last_season": 1
   },
   {
     "club_country": "GRE",
@@ -1667,7 +1683,9 @@
     "club_country": "GRE",
     "club_logo": "https://sortitoutsi.net/uploads/team/129667.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/129667.png",
-    "club_name": "PAS Giannina FC"
+    "club_name": "PAS Giannina FC",
+    "club_points_last_season": 31,
+    "club_division_last_season": 1
   },
   {
     "club_country": "ARM",
@@ -5881,6 +5899,46 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/447.png",
     "club_name": "NK Varaždin",
     "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/968.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/968.png",
+    "club_name": "Apollon Smyrnis F.C.",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/975.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/975.png",
+    "club_name": "Ionikos F.C.",
+    "club_points_last_season": 53,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/682130.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/682130.png",
+    "club_name": "PAS Lamia 1964",
+    "club_points_last_season": 23,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/129665.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/129665.png",
+    "club_name": "Panetolikos F.C.",
+    "club_points_last_season": 20,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "GRE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/36136195.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/36136195.png",
+    "club_name": "Volos F.C.",
+    "club_points_last_season": 33,
     "club_division_last_season": 1
   }
 ]
