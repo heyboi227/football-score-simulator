@@ -163,7 +163,9 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1849.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1849.png",
-    "club_name": "FC Basel 1893"
+    "club_name": "FC Basel 1893",
+    "club_points_last_season": 53,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FRA",
@@ -474,7 +476,9 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1847.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1847.png",
-    "club_name": "BSC Young Boys"
+    "club_name": "BSC Young Boys",
+    "club_points_last_season": 84,
+    "club_division_last_season": 1
   },
   {
     "club_country": "AUT",
@@ -644,7 +648,9 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1854.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1854.png",
-    "club_name": "FC Zurich"
+    "club_name": "FC Zurich",
+    "club_points_last_season": 43,
+    "club_division_last_season": 1
   },
   {
     "club_country": "AZE",
@@ -774,7 +780,9 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1852.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1852.png",
-    "club_name": "FC Sion"
+    "club_name": "FC Sion",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1
   },
   {
     "club_country": "POR",
@@ -847,7 +855,9 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1855.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1855.png",
-    "club_name": "Grasshopper Zürich"
+    "club_name": "Grasshopper Zürich",
+    "club_points_last_season": 65,
+    "club_division_last_season": 2
   },
   {
     "club_country": "ISR",
@@ -1137,7 +1147,9 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1850.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1850.png",
-    "club_name": "FC Lugano"
+    "club_name": "FC Lugano",
+    "club_points_last_season": 49,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CYP",
@@ -1567,7 +1579,9 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1851.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1851.png",
-    "club_name": "FC Luzern"
+    "club_name": "FC Luzern",
+    "club_points_last_season": 46,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SVN",
@@ -1649,13 +1663,17 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1853.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1853.png",
-    "club_name": "FC St. Gallen"
+    "club_name": "FC St. Gallen",
+    "club_points_last_season": 44,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/1858.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1858.png",
-    "club_name": "Servette FC"
+    "club_name": "Servette FC",
+    "club_points_last_season": 50,
+    "club_division_last_season": 1
   },
   {
     "club_country": "GRE",
@@ -6224,5 +6242,21 @@
     "club_points_last_season": 26,
     "club_division_last_season": 4,
     "club_division_group_last_season": "9"
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1856.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1856.png",
+    "club_name": "FC Lausanne-Sport",
+    "club_points_last_season": 46,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1856.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1856.png",
+    "club_name": "FC Lausanne-Sport",
+    "club_points_last_season": 46,
+    "club_division_last_season": 1
   }
 ]
