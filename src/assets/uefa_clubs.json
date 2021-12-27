@@ -899,7 +899,9 @@
     "club_country": "SUI",
     "club_logo": "https://sortitoutsi.net/uploads/team/514173.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/514173.png",
-    "club_name": "FC Thun"
+    "club_name": "FC Thun",
+    "club_points_last_season": 64,
+    "club_division_last_season": 2
   },
   {
     "club_country": "DEN",
@@ -1567,7 +1569,9 @@
     "club_country": "LIE",
     "club_logo": "https://sortitoutsi.net/uploads/team/5720002.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/5720002.png",
-    "club_name": "FC Vaduz"
+    "club_name": "FC Vaduz",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
   },
   {
     "club_country": "EST",
@@ -6250,5 +6254,69 @@
     "club_name": "FC Lausanne-Sport",
     "club_points_last_season": 46,
     "club_division_last_season": 1
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1848.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1848.png",
+    "club_name": "FC Aarau",
+    "club_points_last_season": 58,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/105611.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/105611.png",
+    "club_name": "SC Kriens",
+    "club_points_last_season": 38,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/137904.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/137904.png",
+    "club_name": "FC Stade Lausanne Ouchy",
+    "club_points_last_season": 58,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/137917.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/137917.png",
+    "club_name": "FC Schaffhausen",
+    "club_points_last_season": 58,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130820.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130820.png",
+    "club_name": "FC Wil",
+    "club_points_last_season": 39,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1200101.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1200101.png",
+    "club_name": "FC Winterthur",
+    "club_points_last_season": 43,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1857.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1857.png",
+    "club_name": "Neuchâtel Xamax FCS",
+    "club_points_last_season": 36,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SUI",
+    "club_logo": "https://sortitoutsi.net/uploads/team/105898.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/105898.png",
+    "club_name": "Yverdon-Sport FC",
+    "club_points_last_season": 46,
+    "club_division_last_season": 3
   }
 ]
