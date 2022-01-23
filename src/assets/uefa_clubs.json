@@ -6318,5 +6318,17 @@
     "club_name": "Yverdon-Sport FC",
     "club_points_last_season": 46,
     "club_division_last_season": 3
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/352.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/352.png",
+    "club_name": "FC Lokomotiv 1929 Sofia"
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300203.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300203.png",
+    "club_name": "FC Minyor Pernik"
   }
 ]
