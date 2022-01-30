@@ -1183,7 +1183,9 @@
     "club_country": "BIH",
     "club_logo": "https://sortitoutsi.net/uploads/team/650047.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/650047.png",
-    "club_name": "HŠK Zrinjski"
+    "club_name": "HŠK Zrinjski",
+    "club_points_last_season": 59,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LUX",
@@ -1405,7 +1407,9 @@
     "club_country": "BIH",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300153.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300153.png",
-    "club_name": "FK Sarajevo"
+    "club_name": "FK Sarajevo",
+    "club_points_last_season": 65,
+    "club_division_last_season": 1
   },
   {
     "club_country": "EST",
@@ -2259,7 +2263,9 @@
     "club_country": "BIH",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300156.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300156.png",
-    "club_name": "FK Željezničar"
+    "club_name": "FK Željezničar",
+    "club_points_last_season": 44,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MLT",
@@ -2319,7 +2325,10 @@
     "club_country": "BIH",
     "club_logo": "https://sortitoutsi.net/uploads/team/652649.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/652649.png",
-    "club_name": "NK Široki Brijeg"
+    "club_name": "NK Široki Brijeg",
+    "club_points_last_season": 59,
+    "club_division_last_season": 1
+
   },
   {
     "club_country": "FRO",
@@ -2505,19 +2514,25 @@
     "club_country": "BIH",
     "club_logo": "https://sortitoutsi.net/uploads/team/1104133.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1104133.png",
-    "club_name": "FK Borac Banja Luka"
+    "club_name": "FK Borac Banja Luka",
+    "club_points_last_season": 67,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BIH",
     "club_logo": "https://sortitoutsi.net/uploads/team/5747678.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/5747678.png",
-    "club_name": "FK Radnik Bijeljina"
+    "club_name": "FK Radnik Bijeljina",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BIH",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300147.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300147.png",
-    "club_name": "FK Sloboda Tuzla"
+    "club_name": "FK Sloboda Tuzla",
+    "club_points_last_season": 37,
+    "club_division_last_season": 1
   },
   {
     "club_country": "IRL",
@@ -6330,5 +6345,48 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1300203.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300203.png",
     "club_name": "FC Minyor Pernik"
+  },
+  {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5747925.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5747925.png",
+    "club_name": "FK Leotar",
+    "club_points_last_season": 54,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "RS"
+  },
+  {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/652657.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/652657.png",
+    "club_name": "HŠK Posušje",
+    "club_points_last_season": 61,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "FBIH"
+  },
+  {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5779732.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5779732.png",
+    "club_name": "FK Rudar Prijedor",
+    "club_points_last_season": 63,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "RS"
+  },
+  {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/21028704.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/21028704.png",
+    "club_name": "FK Tuzla City",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300163.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300163.png",
+    "club_name": "FK Velež Mostar",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
   }
 ]
