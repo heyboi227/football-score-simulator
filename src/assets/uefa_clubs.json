@@ -1143,7 +1143,9 @@
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/138163.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/138163.png",
-    "club_name": "KF Shkëndija"
+    "club_name": "KF Shkëndija",
+    "club_points_last_season": 75,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SUI",
@@ -2245,7 +2247,9 @@
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/47045688.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47045688.png",
-    "club_name": "FC Shkupi 1927"
+    "club_name": "FC Shkupi 1927",
+    "club_points_last_season": 59,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SVK",
@@ -2484,7 +2488,9 @@
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/128000.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/128000.png",
-    "club_name": "FK Rabotnicki"
+    "club_name": "FK Rabotnicki",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LTU",
@@ -2556,25 +2562,33 @@
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/8403827.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/8403827.png",
-    "club_name": "KF Renova"
+    "club_name": "KF Renova",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/116192.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/116192.png",
-    "club_name": "FK Makedonija GP Skopje"
+    "club_name": "FK Makedonija GP Skopje",
+    "club_points_last_season": 55,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/47059823.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47059823.png",
-    "club_name": "Akademija Pandev"
+    "club_name": "Akademija Pandev",
+    "club_points_last_season": 41,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/1235.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1235.png",
-    "club_name": "FK Pelister"
+    "club_name": "FK Pelister",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MDA",
@@ -6388,5 +6402,48 @@
     "club_name": "FK Velež Mostar",
     "club_points_last_season": 48,
     "club_division_last_season": 1
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130861.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130861.png",
+    "club_name": "FK Borec",
+    "club_points_last_season": 40,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8401295.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8401295.png",
+    "club_name": "FK Bregalnica Štip",
+    "club_points_last_season": 73,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "East"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130864.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130864.png",
+    "club_name": "FK Skopje",
+    "club_points_last_season": 60,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "West"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47075718.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47075718.png",
+    "club_name": "FC Struga",
+    "club_points_last_season": 57,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47075718.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47075718.png",
+    "club_name": "GFK Tikvesh",
+    "club_points_last_season": 61,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "East"
   }
 ]
