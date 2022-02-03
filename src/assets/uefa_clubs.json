@@ -1947,7 +1947,9 @@
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/1239.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1239.png",
-    "club_name": "FK Vardar"
+    "club_name": "FK Vardar",
+    "club_points_last_season": 31,
+    "club_division_last_season": 1
   },
   {
     "club_country": "ALB",
@@ -2464,7 +2466,9 @@
     "club_country": "MKD",
     "club_logo": "https://sortitoutsi.net/uploads/team/1237.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1237.png",
-    "club_name": "FK Sileks"
+    "club_name": "FK Sileks",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
   },
   {
     "club_country": "ARM",
@@ -6534,5 +6538,77 @@
     "club_points_last_season": 34,
     "club_division_last_season": 2,
     "club_division_group_last_season": "East"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47092506.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47092506.png",
+    "club_name": "KF Besa Dobërdoll",
+    "club_points_last_season": 40,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "West"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47036103.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47036103.png",
+    "club_name": "KF Gostivari",
+    "club_points_last_season": 43,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "West"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47089962.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47089962.png",
+    "club_name": "FK Kadino",
+    "club_points_last_season": 28,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "West"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47036094.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47036094.png",
+    "club_name": "KF Korabi Debar",
+    "club_points_last_season": 36,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "West"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5798267.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5798267.png",
+    "club_name": "FK Ohrid",
+    "club_points_last_season": 46,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "West"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5740647.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5740647.png",
+    "club_name": "FK Teteks",
+    "club_points_last_season": 27,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "West"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47092391.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47092391.png",
+    "club_name": "KF Veleshta",
+    "club_points_last_season": 46,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "West"
+  },
+  {
+    "club_country": "MKD",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2000101169.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2000101169.png",
+    "club_name": "FK Voska Sport",
+    "club_points_last_season": 56,
+    "club_division_last_season": 3,
+    "club_division_group_last_season": "Southwest"
   }
 ]
