@@ -6626,5 +6626,13 @@
     "club_name": "Annagh United F.C.",
     "club_points_last_season": 33,
     "club_division_last_season": 3
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130174.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130174.png",
+    "club_name": "Loughgall F.C.",
+    "club_points_last_season": 59,
+    "club_division_last_season": 2
   }
 ]
