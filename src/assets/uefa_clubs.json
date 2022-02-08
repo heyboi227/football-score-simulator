@@ -6629,10 +6629,90 @@
   },
   {
     "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1272.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1272.png",
+    "club_name": "Ards F.C.",
+    "club_points_last_season": 52,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130162.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130162.png",
+    "club_name": "Ballinamallard United F.C.",
+    "club_points_last_season": 60,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1273.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1273.png",
+    "club_name": "Ballyclare Comrades F.C.",
+    "club_points_last_season": 40,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/416241.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/416241.png",
+    "club_name": "Dergview F.C.",
+    "club_points_last_season": 40,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130176.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130176.png",
+    "club_name": "Dundela F.C.",
+    "club_points_last_season": 46,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130175.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130175.png",
+    "club_name": "Harland & Wolff Welders F.C.",
+    "club_points_last_season": 35,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130031.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130031.png",
+    "club_name": "Institute F.C.",
+    "club_points_last_season": 15,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/414230.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/414230.png",
+    "club_name": "Knockbreda F.C.",
+    "club_points_last_season": 15,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "NIR",
     "club_logo": "https://sortitoutsi.net/uploads/team/130174.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/130174.png",
     "club_name": "Loughgall F.C.",
     "club_points_last_season": 59,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130174.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130174.png",
+    "club_name": "Newry City A.F.C.",
+    "club_points_last_season": 51,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/416240.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/416240.png",
+    "club_name": "Queen's University Belfast A.F.C.",
+    "club_points_last_season": 34,
     "club_division_last_season": 2
   }
 ]
