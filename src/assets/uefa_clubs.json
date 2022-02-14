@@ -6727,6 +6727,14 @@
   },
   {
     "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/30033346.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/30033346.png",
+    "club_name": "KF Arbëria",
+    "club_points_last_season": 40,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "KOS",
     "club_logo": "https://sortitoutsi.net/uploads/team/8351579.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/8351579.png",
     "club_name": "FC Besa Pejë",
@@ -6743,10 +6751,50 @@
   },
   {
     "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/11023202.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/11023202.png",
+    "club_name": "FC Ferizaj",
+    "club_points_last_season": 30,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8351591.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8351591.png",
+    "club_name": "KF Flamurtari",
+    "club_points_last_season": 52,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/23387304.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/23387304.png",
+    "club_name": "KF Fushë Kosova",
+    "club_points_last_season": 75,
+    "club_division_last_season": 3
+  },
+  {
+    "club_country": "KOS",
     "club_logo": "https://sortitoutsi.net/uploads/team/23387297.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/23387297.png",
     "club_name": "KF Istogu",
     "club_points_last_season": 47,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/23387314.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/23387314.png",
+    "club_name": "KF Kika",
+    "club_points_last_season": 34,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/23387300.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/23387300.png",
+    "club_name": "KF 2 Korriku",
+    "club_points_last_season": 42,
     "club_division_last_season": 2
   },
   {
@@ -6775,6 +6823,14 @@
   },
   {
     "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/23387307.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/23387307.png",
+    "club_name": "KF Ramiz Sadiku",
+    "club_points_last_season": 32,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KOS",
     "club_logo": "https://sortitoutsi.net/uploads/team/23387293.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/23387293.png",
     "club_name": "KF Trepça",
@@ -6787,6 +6843,30 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/8351587.png",
     "club_name": "KF Vëllaznimi",
     "club_points_last_season": 32,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/23387309.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/23387309.png",
+    "club_name": "KF Vitia",
+    "club_points_last_season": 35,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/23387309.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/23387309.png",
+    "club_name": "KF Vllaznia Pozheran",
+    "club_points_last_season": 31,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/23387298.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/23387298.png",
+    "club_name": "KF Vushtrria",
+    "club_points_last_season": 20,
     "club_division_last_season": 2
   }
 ]
