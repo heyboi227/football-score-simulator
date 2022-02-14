@@ -2760,7 +2760,7 @@
     "club_country": "KOS",
     "club_logo": "https://sortitoutsi.net/uploads/team/23387294.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/23387294.png",
-    "club_name": "KF Gjilani"
+    "club_name": "SC Gjilani"
   },
   {
     "club_country": "KOS",
@@ -6868,5 +6868,107 @@
     "club_name": "KF Vushtrria",
     "club_points_last_season": 20,
     "club_division_last_season": 2
+  },
+  {
+    "club_country": "SMR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301125.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301125.png",
+    "club_name": "F.C. Domagnano"
+  },
+  {
+    "club_country": "ALB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/72.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/72.png",
+    "club_name": "KF Vllaznia Shkodër"
+  },
+  {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/138202.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/138202.png",
+    "club_name": "Nadur Youngsters F.C."
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/717327.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/717327.png",
+    "club_name": "Radomiak Radom"
+  },
+  {
+    "club_country": "GIB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/36500003.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/36500003.png",
+    "club_name": "Glacis United F.C."
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1230.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1230.png",
+    "club_name": "FC Swift Hesperange"
+  },
+  {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47053668.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47053668.png",
+    "club_name": "FK Panevėžys"
+  },
+  {
+    "club_country": "SVK",
+    "club_logo": "https://sortitoutsi.net/uploads/team/63023681.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/63023681.png",
+    "club_name": "ŠKF Sereď"
+  },
+  {
+    "club_country": "IRL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/598.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/598.png",
+    "club_name": "Sligo Rovers F.C."
+  },
+  {
+    "club_country": "WAL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/74032529.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/74032529.png",
+    "club_name": "Penybont F.C."
+  },
+  {
+    "club_country": "MNE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5773564.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5773564.png",
+    "club_name": "FK Dečić"
+  },
+  {
+    "club_country": "AND",
+    "club_logo": "https://sortitoutsi.net/uploads/team/145423.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/145423.png",
+    "club_name": "Atlètic Club d'Escaldes"
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8351453.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8351453.png",
+    "club_name": "FC Ballkani"
+  },
+  {
+    "club_country": "KOS",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8351581.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8351581.png",
+    "club_name": "KF Llapi"
+  },
+  {
+    "club_country": "ARM",
+    "club_logo": "https://sortitoutsi.net/uploads/team/99.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/99.png",
+    "club_name": "FC Ararat Yerevan"
+  },
+  {
+    "club_country": "NIR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1283.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1283.png",
+    "club_name": "Larne F.C."
+  },
+  {
+    "club_country": "SVN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1632.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1632.png",
+    "club_name": "FC Koper"
   }
 ]
