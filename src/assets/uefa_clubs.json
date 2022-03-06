@@ -1417,7 +1417,9 @@
     "club_country": "EST",
     "club_logo": "https://sortitoutsi.net/uploads/team/746.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/746.png",
-    "club_name": "FC Flora Tallinn"
+    "club_name": "FC Flora Tallinn",
+    "club_points_last_season": 64,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LTU",
@@ -1583,7 +1585,9 @@
     "club_country": "EST",
     "club_logo": "https://sortitoutsi.net/uploads/team/7681543.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/7681543.png",
-    "club_name": "Nõmme Kalju FC"
+    "club_name": "Nõmme Kalju FC",
+    "club_points_last_season": 43,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SUI",
@@ -2325,7 +2329,10 @@
     "club_country": "EST",
     "club_logo": "https://sortitoutsi.net/uploads/team/47081043.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47081043.png",
-    "club_name": "FC Levadia Tallinn"
+    "club_name": "FC Levadia Tallinn",
+    "club_points_last_season": 67,
+    "club_division_last_season": 1
+
   },
   {
     "club_country": "BIH",
@@ -2460,7 +2467,9 @@
     "club_country": "EST",
     "club_logo": "https://sortitoutsi.net/uploads/team/751.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/751.png",
-    "club_name": "JK Narva Trans"
+    "club_name": "JK Narva Trans",
+    "club_points_last_season": 29,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MKD",
@@ -2774,7 +2783,9 @@
     "club_country": "EST",
     "club_logo": "https://sortitoutsi.net/uploads/team/31000336.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/31000336.png",
-    "club_name": "Paide Linnameeskond"
+    "club_name": "Paide Linnameeskond",
+    "club_points_last_season": 53,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MNE",
@@ -7006,5 +7017,45 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/64000753.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/64000753.png",
     "club_name": "NK Bravo"
+  },
+  {
+    "club_country": "EST",
+    "club_logo": "https://sortitoutsi.net/uploads/team/514350.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/514350.png",
+    "club_name": "FC Kuressaare",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "EST",
+    "club_logo": "https://sortitoutsi.net/uploads/team/31000548.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/31000548.png",
+    "club_name": "Tallinna JK Legion",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "EST",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5220196.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5220196.png",
+    "club_name": "Tartu JK Tammeka",
+    "club_points_last_season": 19,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "EST",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47070349.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47070349.png",
+    "club_name": "Pärnu JK Vaprus",
+    "club_points_last_season": 27,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "EST",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7681958.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7681958.png",
+    "club_name": "JK Tallinna Kalev",
+    "club_points_last_season": 71,
+    "club_division_last_season": 2
   }
 ]
