@@ -1167,7 +1167,9 @@
     "club_country": "LTU",
     "club_logo": "https://sortitoutsi.net/uploads/team/485305.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/485305.png",
-    "club_name": "FK Sūduva"
+    "club_name": "FK Sūduva",
+    "club_points_last_season": 70,
+    "club_division_last_season": 1
   },
   {
     "club_country": "WAL",
@@ -1319,7 +1321,9 @@
     "club_country": "LTU",
     "club_logo": "https://sortitoutsi.net/uploads/team/1218.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1218.png",
-    "club_name": "FK Žalgiris Vilnius"
+    "club_name": "FK Žalgiris Vilnius",
+    "club_points_last_season": 79,
+    "club_division_last_season": 1
   },
   {
     "club_country": "ARM",
@@ -1425,7 +1429,9 @@
     "club_country": "LTU",
     "club_logo": "https://sortitoutsi.net/uploads/team/47094382.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47094382.png",
-    "club_name": "FK Riteriai"
+    "club_name": "FK Riteriai",
+    "club_points_last_season": 46,
+    "club_division_last_season": 1
   },
   {
     "club_country": "TUR",
@@ -2449,7 +2455,9 @@
     "club_country": "LTU",
     "club_logo": "https://sortitoutsi.net/uploads/team/47040647.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47040647.png",
-    "club_name": "FK Kauno Žalgiris"
+    "club_name": "FK Kauno Žalgiris",
+    "club_points_last_season": 63,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LVA",
@@ -6920,7 +6928,9 @@
     "club_country": "LTU",
     "club_logo": "https://sortitoutsi.net/uploads/team/47053668.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47053668.png",
-    "club_name": "FK Panevėžys"
+    "club_name": "FK Panevėžys",
+    "club_points_last_season": 60,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SVK",
@@ -7056,6 +7066,46 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/7681958.png",
     "club_name": "JK Tallinna Kalev",
     "club_points_last_season": 71,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300727.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300727.png",
+    "club_name": "FK Banga Gargždai",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300736.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300736.png",
+    "club_name": "FC Džiugas Telšiai",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2000157312.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2000157312.png",
+    "club_name": "FC Hegelmann",
+    "club_points_last_season": 53,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47074892.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47074892.png",
+    "club_name": "FK Jonava",
+    "club_points_last_season": 67,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "LTU",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47073398.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47073398.png",
+    "club_name": "FA Šiauliai",
+    "club_points_last_season": 67,
     "club_division_last_season": 2
   }
 ]
