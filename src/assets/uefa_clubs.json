@@ -1407,7 +1407,9 @@
     "club_country": "FRO",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300342.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300342.png",
-    "club_name": "B36 Tórshavn"
+    "club_name": "B36 Tórshavn",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BIH",
@@ -1619,7 +1621,9 @@
     "club_country": "FRO",
     "club_logo": "https://sortitoutsi.net/uploads/team/806.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/806.png",
-    "club_name": "KÍ Klaksvík"
+    "club_name": "KÍ Klaksvík",
+    "club_points_last_season": 72,
+    "club_division_last_season": 1
   },
   {
     "club_country": "NIR",
@@ -2273,7 +2277,9 @@
     "club_country": "FRO",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300345.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300345.png",
-    "club_name": "NSÍ Runavík"
+    "club_name": "NSÍ Runavík",
+    "club_points_last_season": 47,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BIH",
@@ -2353,7 +2359,9 @@
     "club_country": "FRO",
     "club_logo": "https://sortitoutsi.net/uploads/team/32000519.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/32000519.png",
-    "club_name": "Víkingur"
+    "club_name": "Víkingur",
+    "club_points_last_season": 60,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SVK",
@@ -2413,7 +2421,9 @@
     "club_country": "FRO",
     "club_logo": "https://sortitoutsi.net/uploads/team/805.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/805.png",
-    "club_name": "HB Tórshavn"
+    "club_name": "HB Tórshavn",
+    "club_points_last_season": 61,
+    "club_division_last_season": 1
   },
   {
     "club_country": "GIB",
@@ -7106,6 +7116,46 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47073398.png",
     "club_name": "FA Šiauliai",
     "club_points_last_season": 67,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "FRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300349.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300349.png",
+    "club_name": "07 Vestur",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "FRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7960002.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7960002.png",
+    "club_name": "EB/Streymur",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "FRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/803.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/803.png",
+    "club_name": "B68 Toftir",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "FRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7960003.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7960003.png",
+    "club_name": "Skála ÍF",
+    "club_points_last_season": 53,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "FRO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8300262.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8300262.png",
+    "club_name": "Argja Bóltfelag",
+    "club_points_last_season": 44,
     "club_division_last_season": 2
   }
 ]
