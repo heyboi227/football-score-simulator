@@ -706,7 +706,9 @@
     "club_country": "KAZ",
     "club_logo": "https://sortitoutsi.net/uploads/team/59041139.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/59041139.png",
-    "club_name": "FC Astana"
+    "club_name": "FC Astana",
+    "club_points_last_season": 57,
+    "club_division_last_season": 1
   },
   {
     "club_country": "DEN",
@@ -1475,7 +1477,9 @@
     "club_country": "MNE",
     "club_logo": "https://sortitoutsi.net/uploads/team/484442.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/484442.png",
-    "club_name": "FC Kairat Almaty"
+    "club_name": "FC Kairat Almaty",
+    "club_points_last_season": 51,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CRO",
@@ -2137,13 +2141,17 @@
     "club_country": "KAZ",
     "club_logo": "https://sortitoutsi.net/uploads/team/483762.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/483762.png",
-    "club_name": "FC Ordabasy Shymkent"
+    "club_name": "FC Ordabasy Shymkent",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1
   },
   {
     "club_country": "KAZ",
     "club_logo": "https://sortitoutsi.net/uploads/team/484610.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/484610.png",
-    "club_name": "FC Tobol Kostanay"
+    "club_name": "FC Tobol Kostanay",
+    "club_points_last_season": 61,
+    "club_division_last_season": 1
   },
   {
     "club_country": "KAZ",
@@ -2155,7 +2163,9 @@
     "club_country": "KAZ",
     "club_logo": "https://sortitoutsi.net/uploads/team/494162.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/494162.png",
-    "club_name": "FC Aktobe"
+    "club_name": "FC Aktobe",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1
   },
   {
     "club_country": "HUN",
@@ -7024,7 +7034,9 @@
     "club_country": "KAZ",
     "club_logo": "https://sortitoutsi.net/uploads/team/59017484.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/59017484.png",
-    "club_name": "FC Kyzylzhar"
+    "club_name": "FC Kyzylzhar",
+    "club_points_last_season": 39,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BUL",
@@ -7157,5 +7169,69 @@
     "club_name": "Argja Bóltfelag",
     "club_points_last_season": 44,
     "club_division_last_season": 2
+  },
+  {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59135023.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59135023.png",
+    "club_name": "FC Aksu",
+    "club_points_last_season": 50,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/498471.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/498471.png",
+    "club_name": "FC Akzhayik",
+    "club_points_last_season": 32,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/494161.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/494161.png",
+    "club_name": "FC Atyrau",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/494164.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/494164.png",
+    "club_name": "FC Caspiy",
+    "club_points_last_season": 28,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59066747.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59066747.png",
+    "club_name": "FC Maktaaral",
+    "club_points_last_season": 46,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/484477.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/484477.png",
+    "club_name": "FC Shakhter Karagandy",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/484619.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/484619.png",
+    "club_name": "FC Taraz",
+    "club_points_last_season": 29,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "KAZ",
+    "club_logo": "https://sortitoutsi.net/uploads/team/2000126093.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/2000126093.png",
+    "club_name": "FC Turan",
+    "club_points_last_season": 29,
+    "club_division_last_season": 1
   }
 ]
