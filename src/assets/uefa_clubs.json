@@ -1317,7 +1317,9 @@
     "club_country": "GEO",
     "club_logo": "https://sortitoutsi.net/uploads/team/892.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/892.png",
-    "club_name": "FC Dinamo Tbilisi"
+    "club_name": "FC Dinamo Tbilisi",
+    "club_points_last_season": 70,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LTU",
@@ -2033,7 +2035,9 @@
     "club_country": "GEO",
     "club_logo": "https://sortitoutsi.net/uploads/team/59025932.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/59025932.png",
-    "club_name": "FC Torpedo Kutaisi"
+    "club_name": "FC Torpedo Kutaisi",
+    "club_points_last_season": 40,
+    "club_division_last_season": 1
   },
   {
     "club_country": "ROU",
@@ -2261,7 +2265,9 @@
     "club_country": "GEO",
     "club_logo": "https://sortitoutsi.net/uploads/team/59071370.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/59071370.png",
-    "club_name": "FC Saburtalo"
+    "club_name": "FC Saburtalo",
+    "club_points_last_season": 57,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MDA",
@@ -2469,7 +2475,9 @@
     "club_country": "GEO",
     "club_logo": "https://sortitoutsi.net/uploads/team/483911.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/483911.png",
-    "club_name": "FC Locomotive Tbilisi"
+    "club_name": "FC Locomotive Tbilisi",
+    "club_points_last_season": 53,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LTU",
@@ -2713,7 +2721,9 @@
     "club_country": "GEO",
     "club_logo": "https://sortitoutsi.net/uploads/team/891.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/891.png",
-    "club_name": "FC Dinamo Batumi"
+    "club_name": "FC Dinamo Batumi",
+    "club_points_last_season": 75,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MDA",
@@ -2773,7 +2783,9 @@
     "club_country": "GEO",
     "club_logo": "https://sortitoutsi.net/uploads/team/890.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/890.png",
-    "club_name": "FC Dila Gori"
+    "club_name": "FC Dila Gori",
+    "club_points_last_season": 61,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MLT",
@@ -7232,6 +7244,38 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/2000126093.png",
     "club_name": "FC Turan",
     "club_points_last_season": 26,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "GEO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59007876.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59007876.png",
+    "club_name": "FC Gagra",
+    "club_points_last_season": 75,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "GEO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300530.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300530.png",
+    "club_name": "FC Samgurali Tsqaltubo",
+    "club_points_last_season": 41,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "GEO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300526.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300526.png",
+    "club_name": "FC Sioni Bolnisi",
+    "club_points_last_season": 81,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "GEO",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59121257.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59121257.png",
+    "club_name": "FC Telavi",
+    "club_points_last_season": 44,
     "club_division_last_season": 1
   }
 ]
