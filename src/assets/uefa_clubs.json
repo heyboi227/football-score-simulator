@@ -1133,7 +1133,9 @@
     "club_country": "IRL",
     "club_logo": "https://sortitoutsi.net/uploads/team/592.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/592.png",
-    "club_name": "Dundalk FC"
+    "club_name": "Dundalk FC",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SWE",
@@ -1817,7 +1819,9 @@
     "club_country": "IRL",
     "club_logo": "https://sortitoutsi.net/uploads/team/596.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/596.png",
-    "club_name": "Shamrock Rovers FC"
+    "club_name": "Shamrock Rovers FC",
+    "club_points_last_season": 78,
+    "club_division_last_season": 1
   },
   {
     "club_country": "WAL",
@@ -2593,19 +2597,25 @@
     "club_country": "IRL",
     "club_logo": "https://sortitoutsi.net/uploads/team/588.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/588.png",
-    "club_name": "Bohemian FC"
+    "club_name": "Bohemian FC",
+    "club_points_last_season": 52,
+    "club_division_last_season": 1
   },
   {
     "club_country": "IRL",
     "club_logo": "https://sortitoutsi.net/uploads/team/591.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/591.png",
-    "club_name": "Derry City FC"
+    "club_name": "Derry City FC",
+    "club_points_last_season": 54,
+    "club_division_last_season": 1
   },
   {
     "club_country": "IRL",
     "club_logo": "https://sortitoutsi.net/uploads/team/599.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/599.png",
-    "club_name": "Saint Patrick's Athletic FC"
+    "club_name": "Saint Patrick's Athletic FC",
+    "club_points_last_season": 62,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MKD",
@@ -6974,7 +6984,9 @@
     "club_country": "IRL",
     "club_logo": "https://sortitoutsi.net/uploads/team/598.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/598.png",
-    "club_name": "Sligo Rovers F.C."
+    "club_name": "Sligo Rovers F.C.",
+    "club_points_last_season": 57,
+    "club_division_last_season": 1
   },
   {
     "club_country": "WAL",
@@ -7277,5 +7289,37 @@
     "club_name": "FC Telavi",
     "club_points_last_season": 44,
     "club_division_last_season": 1
+  },
+  {
+    "club_country": "IRL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300922.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300922.png",
+    "club_name": "Drogheda United F.C.",
+    "club_points_last_season": 44,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "IRL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300918.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300918.png",
+    "club_name": "Finn Harps F.C.",
+    "club_points_last_season": 44,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "IRL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/597.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/597.png",
+    "club_name": "Shelbourne F.C.",
+    "club_points_last_season": 57,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "IRL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300920.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300920.png",
+    "club_name": "University College Dublin A.F.C.",
+    "club_points_last_season": 46,
+    "club_division_last_season": 2
   }
 ]
