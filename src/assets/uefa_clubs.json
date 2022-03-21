@@ -1581,7 +1581,9 @@
     "club_country": "LVA",
     "club_logo": "https://sortitoutsi.net/uploads/team/47053664.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47053664.png",
-    "club_name": "Riga FC"
+    "club_name": "Riga FC",
+    "club_points_last_season": 50,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LUX",
@@ -1959,7 +1961,9 @@
     "club_country": "LVA",
     "club_logo": "https://sortitoutsi.net/uploads/team/8404703.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/8404703.png",
-    "club_name": "FK Liepāja"
+    "club_name": "FK Liepāja",
+    "club_points_last_season": 51,
+    "club_division_last_season": 1
   },
   {
     "club_country": "NOR",
@@ -2137,7 +2141,9 @@
     "club_country": "LVA",
     "club_logo": "https://sortitoutsi.net/uploads/team/47005106.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47005106.png",
-    "club_name": "FK Spartaks Jūrmala"
+    "club_name": "FK Spartaks Jūrmala",
+    "club_points_last_season": 35,
+    "club_division_last_season": 1
   },
   {
     "club_country": "KAZ",
@@ -2495,7 +2501,9 @@
     "club_country": "LVA",
     "club_logo": "https://sortitoutsi.net/uploads/team/47024031.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47024031.png",
-    "club_name": "RFS"
+    "club_name": "RFS",
+    "club_points_last_season": 66,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FIN",
@@ -2689,7 +2697,9 @@
     "club_country": "LVA",
     "club_logo": "https://sortitoutsi.net/uploads/team/483870.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/483870.png",
-    "club_name": "FK Valmiera"
+    "club_name": "FK Valmiera",
+    "club_points_last_season": 62,
+    "club_division_last_season": 1
   },
   {
     "club_country": "ARM",
@@ -7320,6 +7330,46 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300920.png",
     "club_name": "University College Dublin A.F.C.",
     "club_points_last_season": 46,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "LVA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/485686.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/485686.png",
+    "club_name": "FK Auda",
+    "club_points_last_season": 31,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "LVA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47001127.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47001127.png",
+    "club_name": "BFC Daugavpils",
+    "club_points_last_season": 32,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LVA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8403700.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8403700.png",
+    "club_name": "FK Metta",
+    "club_points_last_season": 20,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LVA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47085621.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47085621.png",
+    "club_name": "SK Super Nova",
+    "club_points_last_season": 23,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "LVA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/485706.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/485706.png",
+    "club_name": "FK Tukums 2000",
+    "club_points_last_season": 28,
     "club_division_last_season": 2
   }
 ]
