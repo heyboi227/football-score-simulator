@@ -879,7 +879,9 @@
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/816.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/816.png",
-    "club_name": "HJK Helsinki"
+    "club_name": "HJK Helsinki",
+    "club_points_last_season": 59,
+    "club_division_last_season": 1
   },
   {
     "club_country": "UKR",
@@ -1749,7 +1751,9 @@
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/818.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/818.png",
-    "club_name": "KuPS Kuopio"
+    "club_name": "KuPS Kuopio",
+    "club_points_last_season": 58,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BLR",
@@ -2509,7 +2513,9 @@
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/510307.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/510307.png",
-    "club_name": "Ilves Tampere"
+    "club_name": "Ilves Tampere",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
   },
   {
     "club_country": "EST",
@@ -2755,13 +2761,17 @@
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/129132.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/129132.png",
-    "club_name": "FC Honka Espoo"
+    "club_name": "FC Honka Espoo",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300378.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300378.png",
-    "club_name": "FC Inter Turku"
+    "club_name": "FC Inter Turku",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MDA",
@@ -2773,25 +2783,33 @@
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/811.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/811.png",
-    "club_name": "FC Lahti"
+    "club_name": "FC Lahti",
+    "club_points_last_season": 40,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/129179.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/129179.png",
-    "club_name": "IFK Mariehamn"
+    "club_name": "IFK Mariehamn",
+    "club_points_last_season": 30,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300376.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300376.png",
-    "club_name": "VPS Vaasa"
+    "club_name": "VPS Vaasa",
+    "club_points_last_season": 51,
+    "club_division_last_season": 2
   },
   {
     "club_country": "FIN",
     "club_logo": "https://sortitoutsi.net/uploads/team/33007394.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/33007394.png",
-    "club_name": "SJK Seinäjoki"
+    "club_name": "SJK Seinäjoki",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MDA",
@@ -7371,5 +7389,29 @@
     "club_name": "FK Tukums 2000",
     "club_points_last_season": 28,
     "club_division_last_season": 2
+  },
+  {
+    "club_country": "FIN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/521643.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/521643.png",
+    "club_name": "AC Oulu",
+    "club_points_last_season": 23,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "FIN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/817.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/817.png",
+    "club_name": "FC Haka",
+    "club_points_last_season": 35,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "FIN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/129129.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/129129.png",
+    "club_name": "HIFK Fotboll",
+    "club_points_last_season": 35,
+    "club_division_last_season": 1
   }
 ]
