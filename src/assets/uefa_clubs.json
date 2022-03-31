@@ -1777,7 +1777,9 @@
     "club_country": "ISL",
     "club_logo": "https://sortitoutsi.net/uploads/team/1070.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1070.png",
-    "club_name": "FH Hafnarfjördur"
+    "club_name": "FH Hafnarfjördur",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1
   },
   {
     "club_country": "CZE",
@@ -1869,7 +1871,9 @@
     "club_country": "ISL",
     "club_logo": "https://sortitoutsi.net/uploads/team/1080.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1080.png",
-    "club_name": "Valur"
+    "club_name": "Valur",
+    "club_points_last_season": 39,
+    "club_division_last_season": 1
   },
   {
     "club_country": "NIR",
@@ -2085,7 +2089,9 @@
     "club_country": "ISL",
     "club_logo": "https://sortitoutsi.net/uploads/team/1076.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1076.png",
-    "club_name": "KR Reykjavík"
+    "club_name": "KR Reykjavík",
+    "club_points_last_season": 41,
+    "club_division_last_season": 1
   },
   {
     "club_country": "GEO",
@@ -2139,7 +2145,9 @@
     "club_country": "ISL",
     "club_logo": "https://sortitoutsi.net/uploads/team/1078.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1078.png",
-    "club_name": "Stjarnan"
+    "club_name": "Stjarnan",
+    "club_points_last_season": 22,
+    "club_division_last_season": 1
   },
   {
     "club_country": "LVA",
@@ -2445,7 +2453,9 @@
     "club_country": "ISL",
     "club_logo": "https://sortitoutsi.net/uploads/team/1069.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1069.png",
-    "club_name": "Breidablik"
+    "club_name": "Breidablik",
+    "club_points_last_season": 47,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FRO",
@@ -2887,7 +2897,9 @@
     "club_country": "ISL",
     "club_logo": "https://sortitoutsi.net/uploads/team/1074.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1074.png",
-    "club_name": "ÍBV Vestmannaeyjar"
+    "club_name": "ÍBV Vestmannaeyjar",
+    "club_points_last_season": 47,
+    "club_division_last_season": 2
   },
   {
     "club_country": "SMR",
@@ -2923,7 +2935,9 @@
     "club_country": "ISL",
     "club_logo": "https://sortitoutsi.net/uploads/team/1101637.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1101637.png",
-    "club_name": "Víkingur Reykjavík"
+    "club_name": "Víkingur Reykjavík",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
   },
   {
     "club_country": "AND",
@@ -7412,6 +7426,46 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/129129.png",
     "club_name": "HIFK Fotboll",
     "club_points_last_season": 35,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "ISL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1071.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1071.png",
+    "club_name": "Knattspyrnufélagið Fram",
+    "club_points_last_season": 58,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "ISL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1072.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1072.png",
+    "club_name": "Íþróttabandalag Akraness",
+    "club_points_last_season": 21,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "ISL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/4300030.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/4300030.png",
+    "club_name": "Knattspyrnufélag Akureyrar",
+    "club_points_last_season": 40,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "ISL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1073.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1073.png",
+    "club_name": "Knattspyrnudeild Keflavík",
+    "club_points_last_season": 21,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "ISL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7840114.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7840114.png",
+    "club_name": "Leiknir Reykjavík",
+    "club_points_last_season": 22,
     "club_division_last_season": 1
   }
 ]
