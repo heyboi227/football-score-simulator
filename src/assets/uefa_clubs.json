@@ -458,7 +458,9 @@
     "venues": [
       "Borisov Arena, Borisov",
       "Dinamo Minsk Stadium, Minsk"
-    ]
+    ],
+    "club_points_last_season": 65,
+    "club_division_last_season": 1
   },
   {
     "club_country": "FRA",
@@ -845,7 +847,9 @@
       "Borisov Arena, Borisov",
       "Dinamo Minsk Stadium, Minsk",
       "Traktor Stadium, Minsk"
-    ]
+    ],
+    "club_points_last_season": 62,
+    "club_division_last_season": 1
   },
   {
     "club_country": "POL",
@@ -1661,7 +1665,9 @@
     "club_country": "BLR",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300125.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300125.png",
-    "club_name": "FC Shakhtyor Soligorsk"
+    "club_name": "FC Shakhtyor Soligorsk",
+    "club_points_last_season": 75,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SRB",
@@ -1759,7 +1765,9 @@
     "club_country": "BLR",
     "club_logo": "https://sortitoutsi.net/uploads/team/1300113.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1300113.png",
-    "club_name": "FC Dinamo Brest"
+    "club_name": "FC Dinamo Brest",
+    "club_points_last_season": 38,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SVK",
@@ -2227,13 +2235,17 @@
     "club_country": "BLR",
     "club_logo": "https://sortitoutsi.net/uploads/team/130877.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/130877.png",
-    "club_name": "FC Vitebsk"
+    "club_name": "FC Vitebsk",
+    "club_points_last_season": 37,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BLR",
     "club_logo": "https://sortitoutsi.net/uploads/team/485665.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/485665.png",
-    "club_name": "FC Torpedo Zhodino"
+    "club_name": "FC Torpedo Zhodino",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
   },
   {
     "club_country": "POL",
@@ -7466,6 +7478,86 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/7840114.png",
     "club_name": "Leiknir Reykjavík",
     "club_points_last_season": 22,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/17040498.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/17040498.png",
+    "club_name": "FC Arsenal Dzerzhinsk",
+    "club_points_last_season": 68,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300111.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300111.png",
+    "club_name": "FC Belshina Bobruisk",
+    "club_points_last_season": 63,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/17041311.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/17041311.png",
+    "club_name": "FC Dnepr Mogilev",
+    "club_points_last_season": 55,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/485662.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/485662.png",
+    "club_name": "FC Energetik-BGU Minsk",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5410568.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5410568.png",
+    "club_name": "FC Gomel",
+    "club_points_last_season": 59,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7485067.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7485067.png",
+    "club_name": "FC Isloch Minsk Raion",
+    "club_points_last_season": 34,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/17000059.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/17000059.png",
+    "club_name": "FC Minsk",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/307.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/307.png",
+    "club_name": "FC Neman Grodno",
+    "club_points_last_season": 34,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/130879.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/130879.png",
+    "club_name": "FC Slavia Mozyr",
+    "club_points_last_season": 32,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BLR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/17004083.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/17004083.png",
+    "club_name": "FC Slutsk",
+    "club_points_last_season": 35,
     "club_division_last_season": 1
   }
 ]
