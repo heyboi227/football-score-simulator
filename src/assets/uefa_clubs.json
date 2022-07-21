@@ -1,29 +1,24 @@
-[{
+[
+  {
     "club_country": "ESP",
     "club_logo": "https://sortitoutsi.net/uploads/team/1736.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1736.png",
     "club_name": "Real Madrid CF",
-    "venues": [
-      "Santiago Bernabeu, Madrid"
-    ]
+    "venues": ["Santiago Bernabeu, Madrid"]
   },
   {
     "club_country": "ESP",
     "club_logo": "https://sortitoutsi.net/uploads/team/1708.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1708.png",
     "club_name": "Barcelona",
-    "venues": [
-      "Camp Nou, Barcelona"
-    ]
+    "venues": ["Camp Nou, Barcelona"]
   },
   {
     "club_country": "GER",
     "club_logo": "https://sortitoutsi.net/uploads/team/915.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/915.png",
     "club_name": "FC Bayern Munchen",
-    "venues": [
-      "Allianz Arena, Munchen"
-    ]
+    "venues": ["Allianz Arena, Munchen"]
   },
   {
     "club_country": "ESP",
@@ -66,27 +61,21 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/630.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/630.png",
     "club_name": "Chelsea FC",
-    "venues": [
-      "Stamford Bridge, London"
-    ]
+    "venues": ["Stamford Bridge, London"]
   },
   {
     "club_country": "ENG",
     "club_logo": "https://sortitoutsi.net/uploads/team/602.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/602.png",
     "club_name": "Arsenal FC",
-    "venues": [
-      "Emirates Arena, London"
-    ]
+    "venues": ["Emirates Arena, London"]
   },
   {
     "club_country": "ENG",
     "club_logo": "https://sortitoutsi.net/uploads/team/679.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/679.png",
     "club_name": "Manchester City FC",
-    "venues": [
-      "Etihad Stadium, Manchester"
-    ]
+    "venues": ["Etihad Stadium, Manchester"]
   },
   {
     "club_country": "POR",
@@ -105,9 +94,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/680.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/680.png",
     "club_name": "Manchester United FC",
-    "venues": [
-      "Old Trafford, Manchester"
-    ]
+    "venues": ["Old Trafford, Manchester"]
   },
   {
     "club_country": "GER",
@@ -128,10 +115,7 @@
     "club_name": "FC Shakhtar Donetsk",
     "club_points_last_season": 54,
     "club_division_last_season": 1,
-    "venues": [
-      "Metalist Oblast Sports Complex, Kharkiv",
-      "Arena Lviv, Lviv"
-    ]
+    "venues": ["Metalist Oblast Sports Complex, Kharkiv", "Arena Lviv, Lviv"]
   },
   {
     "club_country": "RUS",
@@ -140,9 +124,7 @@
     "club_name": "FC Zenit",
     "club_points_last_season": 65,
     "club_division_last_season": 1,
-    "venues": [
-      "Zenit Arena, St.Petersburg"
-    ]
+    "venues": ["Zenit Arena, St.Petersburg"]
   },
   {
     "club_country": "ENG",
@@ -155,9 +137,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1775.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1775.png",
     "club_name": "Valencia CF",
-    "venues": [
-      "Mestalla Stadium, Valencia"
-    ]
+    "venues": ["Mestalla Stadium, Valencia"]
   },
   {
     "club_country": "SUI",
@@ -186,9 +166,7 @@
     "club_name": "FC Dynamo Kyiv",
     "club_points_last_season": 65,
     "club_division_last_season": 1,
-    "venues": [
-      "Olimpiyskiy National Sports Complex, Kyiv"
-    ]
+    "venues": ["Olimpiyskiy National Sports Complex, Kyiv"]
   },
   {
     "club_country": "NED",
@@ -209,9 +187,7 @@
     "club_name": "Olympiacos FC",
     "club_points_last_season": 67,
     "club_division_last_season": 1,
-    "venues": [
-      "Georgios Karaiskakis Stadium, Piraeus"
-    ]
+    "venues": ["Georgios Karaiskakis Stadium, Piraeus"]
   },
   {
     "club_country": "FRA",
@@ -264,9 +240,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/908.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/908.png",
     "club_name": "Borussia M'gladbach",
-    "venues": [
-      "Borussia-Park, Mönchengladbach"
-    ]
+    "venues": ["Borussia-Park, Mönchengladbach"]
   },
   {
     "club_country": "ITA",
@@ -455,10 +429,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/130875.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/130875.png",
     "club_name": "FC BATE Borisov",
-    "venues": [
-      "Borisov Arena, Borisov",
-      "Dinamo Minsk Stadium, Minsk"
-    ],
+    "venues": ["Borisov Arena, Borisov", "Dinamo Minsk Stadium, Minsk"],
     "club_points_last_season": 65,
     "club_division_last_season": 1
   },
@@ -725,7 +696,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1952.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1952.png",
     "club_name": "FK Partizan",
-    "club_points_last_season": 95,
+    "club_points_last_season": 79,
     "club_division_last_season": 1
   },
   {
@@ -952,7 +923,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1957.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1957.png",
     "club_name": "FK Vojvodina",
-    "club_points_last_season": 71,
+    "club_points_last_season": 39,
     "club_division_last_season": 1
   },
   {
@@ -1020,7 +991,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1955.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1955.png",
     "club_name": "FK Crvena zvezda",
-    "club_points_last_season": 108,
+    "club_points_last_season": 81,
     "club_division_last_season": 1
   },
   {
@@ -1658,7 +1629,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/5747642.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/5747642.png",
     "club_name": "TSC Bačka Topola",
-    "club_points_last_season": 58,
+    "club_points_last_season": 41,
     "club_division_last_season": 1
   },
   {
@@ -1674,7 +1645,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1301372.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1301372.png",
     "club_name": "FK Čukarički",
-    "club_points_last_season": 74,
+    "club_points_last_season": 54,
     "club_division_last_season": 1
   },
   {
@@ -1682,7 +1653,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1954.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1954.png",
     "club_name": "FK Radnički Niš",
-    "club_points_last_season": 49,
+    "club_points_last_season": 40,
     "club_division_last_season": 1
   },
   {
@@ -1690,7 +1661,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/62031842.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/62031842.png",
     "club_name": "FK Spartak Subotica",
-    "club_points_last_season": 52,
+    "club_points_last_season": 34,
     "club_division_last_season": 1
   },
   {
@@ -1698,7 +1669,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1301374.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1301374.png",
     "club_name": "FK Mladost Lučani",
-    "club_points_last_season": 54,
+    "club_points_last_season": 36,
     "club_division_last_season": 1
   },
   {
@@ -2394,7 +2365,6 @@
     "club_name": "FC Levadia Tallinn",
     "club_points_last_season": 67,
     "club_division_last_season": 1
-
   },
   {
     "club_country": "BIH",
@@ -2403,7 +2373,6 @@
     "club_name": "NK Široki Brijeg",
     "club_points_last_season": 59,
     "club_division_last_season": 1
-
   },
   {
     "club_country": "FRO",
@@ -5521,8 +5490,8 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/136460.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/136460.png",
     "club_name": "FK Kolubara",
-    "club_points_last_season": 69,
-    "club_division_last_season": 2
+    "club_points_last_season": 34,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SRB",
@@ -5537,7 +5506,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/1950.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1950.png",
     "club_name": "FK Napredak Kruševac",
-    "club_points_last_season": 50,
+    "club_points_last_season": 37,
     "club_division_last_season": 1
   },
   {
@@ -5545,7 +5514,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/6400020.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/6400020.png",
     "club_name": "FK Novi Pazar",
-    "club_points_last_season": 49,
+    "club_points_last_season": 25,
     "club_division_last_season": 1
   },
   {
@@ -5561,15 +5530,15 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/120779.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/120779.png",
     "club_name": "FK Radnički 1923",
-    "club_points_last_season": 69,
-    "club_division_last_season": 2
+    "club_points_last_season": 30,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SRB",
     "club_logo": "https://sortitoutsi.net/uploads/team/5748006.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/5748006.png",
     "club_name": "FK Radnik Surdulica",
-    "club_points_last_season": 55,
+    "club_points_last_season": 36,
     "club_division_last_season": 1
   },
   {
@@ -5577,7 +5546,7 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/5744631.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/5744631.png",
     "club_name": "FK Voždovac",
-    "club_points_last_season": 48,
+    "club_points_last_season": 40,
     "club_division_last_season": 1
   },
   {
@@ -5617,8 +5586,8 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/5742987.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/5742987.png",
     "club_name": "FK Javor Ivanjica",
-    "club_points_last_season": 46,
-    "club_division_last_season": 1
+    "club_points_last_season": 56,
+    "club_division_last_season": 2
   },
   {
     "club_country": "SRB",
@@ -5649,9 +5618,8 @@
     "club_logo": "https://sortitoutsi.net/uploads/team/5774738.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/5774738.png",
     "club_name": "FK Mladost Novi Sad",
-    "club_points_last_season": 94,
-    "club_division_last_season": 3,
-    "club_division_group_last_season": "Serbian League Vojvodina"
+    "club_points_last_season": 57,
+    "club_division_last_season": 2
   },
   {
     "club_country": "SRB",
@@ -7559,5 +7527,23 @@
     "club_name": "FC Slutsk",
     "club_points_last_season": 35,
     "club_division_last_season": 1
+  },
+  {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5780640.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5780640.png",
+    "club_name": "FK Sloga Doboj",
+    "club_points_last_season": 68,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "RS"
+  },
+  {
+    "club_country": "BIH",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8403750.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8403750.png",
+    "club_name": "FK Igman Konjic",
+    "club_points_last_season": 68,
+    "club_division_last_season": 2,
+    "club_division_group_last_season": "FBIH"
   }
 ]
