@@ -2088,7 +2088,7 @@
     "club_country": "AZE",
     "club_logo": "https://sortitoutsi.net/uploads/team/485430.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/485430.png",
-    "club_name": "Keşla FK"
+    "club_name": "Shamakhi FK"
   },
   {
     "club_country": "AZE",
@@ -7545,5 +7545,261 @@
     "club_points_last_season": 68,
     "club_division_last_season": 2,
     "club_division_group_last_season": "FBIH"
+  },
+  {
+    "club_country": "AZE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59008336.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59008336.png",
+    "club_name": "Qaradağ Lökbatan FK",
+    "club_points_last_season": 55,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/129577.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/129577.png",
+    "club_name": "Korona Kielce",
+    "club_points_last_season": 56,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/710017.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/710017.png",
+    "club_name": "Miedź Legnica",
+    "club_points_last_season": 77,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1459.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1459.png",
+    "club_name": "Pogoń Szczecin",
+    "club_points_last_season": 65,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/715911.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/715911.png",
+    "club_name": "Stal Mielec",
+    "club_points_last_season": 37,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300885.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300885.png",
+    "club_name": "Śląsk Wrocław",
+    "club_points_last_season": 35,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/710032.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/710032.png",
+    "club_name": "Warta Poznań",
+    "club_points_last_season": 42,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1468.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1468.png",
+    "club_name": "Widzew Łódź",
+    "club_points_last_season": 62,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "POL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1458.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1458.png",
+    "club_name": "Wisła Płock",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "MDA",
+    "club_logo": "https://sortitoutsi.net/uploads/team/57114034.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/57114034.png",
+    "club_name": "Dacia Buiucani",
+    "club_points_last_season": 47,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "SVN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/138169.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/138169.png",
+    "club_name": "NK Tabor Sežana",
+    "club_points_last_season": 30,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "SVN",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7581525.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7581525.png",
+    "club_name": "NK Radomlje",
+    "club_points_last_season": 46,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/18045778.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/18045778.png",
+    "club_name": "US Hostert",
+    "club_points_last_season": 30,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5340220.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5340220.png",
+    "club_name": "FC Etzella Ettelbruck",
+    "club_points_last_season": 37,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5340050.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5340050.png",
+    "club_name": "UN Käerjéng 97",
+    "club_points_last_season": 61,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5340041.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5340041.png",
+    "club_name": "Mondercange FC",
+    "club_points_last_season": 62,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/52072515.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/52072515.png",
+    "club_name": "US Mondorf-les-Bains",
+    "club_points_last_season": 37,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5340545.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5340545.png",
+    "club_name": "FC UNA Strassen",
+    "club_points_last_season": 51,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5340052.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5340052.png",
+    "club_name": "FC Victoria Rosport",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "LUX",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1225.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1225.png",
+    "club_name": "FC Wiltz 71",
+    "club_points_last_season": 31,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "ARM",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59036309.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59036309.png",
+    "club_name": "BKMA Yerevan",
+    "club_points_last_season": 18,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "ARM",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59144815.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59144815.png",
+    "club_name": "Lernayin Artsakh FC",
+    "club_points_last_season": 73,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "ARM",
+    "club_logo": "https://sortitoutsi.net/uploads/team/59144816.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/59144816.png",
+    "club_name": "FC Van",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "ALB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8350953.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8350953.png",
+    "club_name": "KF Egnatia",
+    "club_points_last_season": 35,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "ALB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300042.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300042.png",
+    "club_name": "KF Bylis",
+    "club_points_last_season": 69,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "ALB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5756222.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5756222.png",
+    "club_name": "KF Erzeni",
+    "club_points_last_season": 67,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "ALB",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1300027.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1300027.png",
+    "club_name": "KF Kastrioti",
+    "club_points_last_season": 43,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "MNE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5753204.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5753204.png",
+    "club_name": "FK Arsenal Tivat",
+    "club_points_last_season": 73,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "MNE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5745944.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5745944.png",
+    "club_name": "FK Jezero",
+    "club_points_last_season": 48,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "MNE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5744823.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5744823.png",
+    "club_name": "FK Mornar",
+    "club_points_last_season": 50,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "MNE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5742983.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5742983.png",
+    "club_name": "FK Jedinstvo Bijelo Polje",
+    "club_points_last_season": 78,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "MNE",
+    "club_logo": "https://sortitoutsi.net/uploads/team/5744873.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/5744873.png",
+    "club_name": "OFK Petrovac",
+    "club_points_last_season": 43,
+    "club_division_last_season": 1
   }
 ]
