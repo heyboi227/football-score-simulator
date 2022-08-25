@@ -402,7 +402,9 @@
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/22003969.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/22003969.png",
-    "club_name": "PFC Ludogorets Razgrad"
+    "club_name": "PFC Ludogorets Razgrad",
+    "club_points_last_season": 64,
+    "club_division_last_season": 1
   },
   {
     "club_country": "ESP",
@@ -1162,7 +1164,9 @@
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/22069955.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/22069955.png",
-    "club_name": "PFC CSKA-Sofia"
+    "club_name": "PFC CSKA Sofia",
+    "club_points_last_season": 52,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BIH",
@@ -1894,25 +1898,33 @@
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/351.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/351.png",
-    "club_name": "PFC Lokomotiv Plovdiv 1926"
+    "club_name": "PFC Lokomotiv Plovdiv 1926",
+    "club_points_last_season": 34,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/356.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/356.png",
-    "club_name": "PFC Slavia Sofia"
+    "club_name": "PFC Slavia Sofia",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/349.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/349.png",
-    "club_name": "PFC Levski Sofia"
+    "club_name": "PFC Levski Sofia",
+    "club_points_last_season": 42,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/22033833.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/22033833.png",
-    "club_name": "PFC Botev Plovdiv"
+    "club_name": "PFC Botev Plovdiv",
+    "club_points_last_season": 46,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BUL",
@@ -1924,7 +1936,9 @@
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/341.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/341.png",
-    "club_name": "PFC Beroe Stara Zagora"
+    "club_name": "PFC Beroe Stara Zagora",
+    "club_points_last_season": 32,
+    "club_division_last_season": 1
   },
   {
     "club_country": "POL",
@@ -6441,7 +6455,9 @@
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/352.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/352.png",
-    "club_name": "FC Lokomotiv 1929 Sofia"
+    "club_name": "FC Lokomotiv 1929 Sofia",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1
   },
   {
     "club_country": "BUL",
@@ -7088,7 +7104,9 @@
     "club_country": "BUL",
     "club_logo": "https://sortitoutsi.net/uploads/team/22070174.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/22070174.png",
-    "club_name": "FC CSKA 1948 Sofia"
+    "club_name": "FC CSKA 1948 Sofia",
+    "club_points_last_season": 30,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SVN",
@@ -7801,5 +7819,61 @@
     "club_name": "OFK Petrovac",
     "club_points_last_season": 43,
     "club_division_last_season": 1
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7506471.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7506471.png",
+    "club_name": "FC Arda Kardzhali",
+    "club_points_last_season": 29,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/22003932.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/22003932.png",
+    "club_name": "POFC Botev Vratsa",
+    "club_points_last_season": 22,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/138156.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/138156.png",
+    "club_name": "PFC Cherno More Varna",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/7500388.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/7500388.png",
+    "club_name": "FC Hebar Pazardzhik",
+    "club_points_last_season": 70,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/354.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/354.png",
+    "club_name": "OFC Pirin Blagoevgrad",
+    "club_points_last_season": 27,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/116384.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/116384.png",
+    "club_name": "PFC Septemvri Sofia",
+    "club_points_last_season": 70,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "BUL",
+    "club_logo": "https://sortitoutsi.net/uploads/team/22034856.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/22034856.png",
+    "club_name": "FC Spartak Varna",
+    "club_points_last_season": 70,
+    "club_division_last_season": 2
   }
 ]
