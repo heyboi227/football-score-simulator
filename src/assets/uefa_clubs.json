@@ -1490,7 +1490,9 @@
     "club_country": "MLT",
     "club_logo": "https://sortitoutsi.net/uploads/team/1250.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1250.png",
-    "club_name": "Valletta FC"
+    "club_name": "Valletta FC",
+    "club_points_last_season": 26,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SWE",
@@ -2038,7 +2040,9 @@
     "club_country": "MLT",
     "club_logo": "https://sortitoutsi.net/uploads/team/1243.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1243.png",
-    "club_name": "Hibernians FC"
+    "club_name": "Hibernians FC",
+    "club_points_last_season": 47,
+    "club_division_last_season": 1
   },
   {
     "club_country": "GEO",
@@ -2328,7 +2332,9 @@
     "club_country": "MLT",
     "club_logo": "https://sortitoutsi.net/uploads/team/138199.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/138199.png",
-    "club_name": "Balzan FC"
+    "club_name": "Balzan FC",
+    "club_points_last_season": 23,
+    "club_division_last_season": 1
   },
   {
     "club_country": "SVN",
@@ -2424,7 +2430,9 @@
     "club_country": "MLT",
     "club_logo": "https://sortitoutsi.net/uploads/team/2302698.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/2302698.png",
-    "club_name": "Gżira United FC"
+    "club_name": "Gżira United FC",
+    "club_points_last_season": 33,
+    "club_division_last_season": 1
   },
   {
     "club_country": "NIR",
@@ -2436,7 +2444,9 @@
     "club_country": "MLT",
     "club_logo": "https://sortitoutsi.net/uploads/team/1241.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1241.png",
-    "club_name": "Floriana FC"
+    "club_name": "Floriana FC",
+    "club_points_last_season": 45,
+    "club_division_last_season": 1
   },
   {
     "club_country": "MNE",
@@ -2696,7 +2706,9 @@
     "club_country": "MLT",
     "club_logo": "https://sortitoutsi.net/uploads/team/1240.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/1240.png",
-    "club_name": "Birkirkara FC"
+    "club_name": "Birkirkara FC",
+    "club_points_last_season": 36,
+    "club_division_last_season": 1
   },
   {
     "club_country": "ARM",
@@ -2834,7 +2846,9 @@
     "club_country": "MLT",
     "club_logo": "https://sortitoutsi.net/uploads/team/47041726.png",
     "club_logo_large": "https://sortitoutsi.net/uploads/team/47041726.png",
-    "club_name": "FC Sirens"
+    "club_name": "FC Sirens",
+    "club_points_last_season": 27,
+    "club_division_last_season": 1
   },
   {
     "club_country": "AND",
@@ -7874,6 +7888,65 @@
     "club_logo_large": "https://sortitoutsi.net/uploads/team/22034856.png",
     "club_name": "FC Spartak Varna",
     "club_points_last_season": 70,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47020810.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47020810.png",
+    "club_name": "Gudja United F.C.",
+    "club_points_last_season": 70,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1242.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1242.png",
+    "club_name": "Ħamrun Spartans F.C.",
+    "club_points_last_season": 70,
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1242.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1242.png",
+    "club_name": "Marsaxlokk F.C.",
+    "club_points_last_season": 41,
+    "club_division_group_last_season": "A",
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/133179.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/133179.png",
+    "club_name": "Mosta F.C.",
+    "club_points_last_season": 25,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1245.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1245.png",
+    "club_name": "Pietà Hotspurs",
+    "club_points_last_season": 40,
+    "club_division_group_last_season": "B",
+    "club_division_last_season": 2
+  },
+  {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47041728.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47041728.png",
+    "club_name": "St. Lucia F.C.",
+    "club_points_last_season": 22,
+    "club_division_last_season": 1
+  },
+  {
+    "club_country": "MLT",
+    "club_logo": "https://sortitoutsi.net/uploads/team/47038754.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/47038754.png",
+    "club_name": "Żebbuġ Rangers F.C.",
+    "club_points_last_season": 45,
+    "club_division_group_last_season": "B",
     "club_division_last_season": 2
   }
 ]
