@@ -7948,5 +7948,47 @@
     "club_points_last_season": 45,
     "club_division_group_last_season": "B",
     "club_division_last_season": 2
+  },
+  {
+    "club_country": "SMR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/8800002.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/8800002.png",
+    "club_name": "S.S. Pennarossa"
+  },
+  {
+    "club_country": "SMR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301135.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301135.png",
+    "club_name": "A.S. San Giovanni"
+  },
+  {
+    "club_country": "SMR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301142.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301142.png",
+    "club_name": "A.C. Juvenes/Dogana"
+  },
+  {
+    "club_country": "SMR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301139.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301139.png",
+    "club_name": "S.S. Virtus"
+  },
+  {
+    "club_country": "SMR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301127.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301127.png",
+    "club_name": "S.C. Faetano"
+  },
+  {
+    "club_country": "SMR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301141.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301141.png",
+    "club_name": "A.C. Libertas"
+  },
+  {
+    "club_country": "SMR",
+    "club_logo": "https://sortitoutsi.net/uploads/team/1301133.png",
+    "club_logo_large": "https://sortitoutsi.net/uploads/team/1301133.png",
+    "club_name": "S.S. Murata"
   }
 ]
