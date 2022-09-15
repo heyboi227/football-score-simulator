@@ -10,7 +10,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/core": "^14.2.1",
+    "@angular-devkit/core": "^14.2.3",
     "@angular/animations": "~14.2.1",
     "@angular/common": "~14.2.1",
     "@angular/compiler": "~14.2.1",
