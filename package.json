@@ -21,7 +21,7 @@
     "@angular/router": "~14.2.1",
     "@ngui/auto-complete": "^3.0.0",
     "codelyzer": "^6.0.2",
-    "core-js": "^3.25.1",
+    "core-js": "^3.25.5",
     "eslint": "^8.23.1",
     "jquery": "^3.6.1",
     "rxjs": "~7.5.7",
