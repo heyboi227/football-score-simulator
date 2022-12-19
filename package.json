@@ -22,7 +22,7 @@
     "@ngui/auto-complete": "^3.0.0",
     "codelyzer": "^6.0.2",
     "core-js": "^3.26.1",
-    "eslint": "^8.28.0",
+    "eslint": "^8.30.0",
     "jquery": "^3.6.1",
     "rxjs": "~7.5.7",
     "ts-helpers": "^1.1.2",
