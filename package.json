@@ -28,7 +28,7 @@
     "ts-helpers": "^1.1.2",
     "tslib": "^2.5.0",
     "uuid": "^9.0.0",
-    "zone.js": "~0.13.0"
+    "zone.js": "~0.13.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.2.5",
