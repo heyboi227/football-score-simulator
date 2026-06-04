@@ -18,7 +18,7 @@
     "@angular/forms": "~22.0.0",
     "@angular/platform-browser": "~22.0.0",
     "@angular/platform-browser-dynamic": "~22.0.0",
-    "@angular/router": "~21.2.15",
+    "@angular/router": "~22.0.0",
     "@ngui/auto-complete": "^19.0.0",
     "codelyzer": "^6.0.2",
     "core-js": "^3.49.0",
