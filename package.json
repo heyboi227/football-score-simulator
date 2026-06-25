@@ -16,7 +16,7 @@
     "@angular/compiler": "~22.0.2",
     "@angular/core": "~22.0.3",
     "@angular/forms": "~22.0.2",
-    "@angular/platform-browser": "~22.0.2",
+    "@angular/platform-browser": "~22.0.3",
     "@angular/platform-browser-dynamic": "~22.0.3",
     "@angular/router": "~22.0.2",
     "@ngui/auto-complete": "^22.0.0",
